@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topshelfcabinetscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topshelfcabinetscanada.ca/collections/shaker-white.atom"/>
+  <title>Top Shelf Cabinets Canada</title>
+  <updated>2018-04-20T22:53:05-03:00</updated>
+  <author>
+    <name>Top Shelf Cabinets Canada</name>
+  </author>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/671361892413</id>
+    <published>2018-04-20T22:53:05-03:00</published>
+    <updated>2018-04-20T22:53:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swbrdvkt"/>
+    <title>Tray Divider Kit for Base Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/D1.png?v=1584666618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            94.99 - 139.99
+            <a href="https://topshelfcabinetscanada.ca/products/swbrdvkt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tray Divider Kit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/671361892413</id>
+      <title>12&quot;W</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>SWTDVKT12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/671361892413</id>
+      <title>15&quot;W</title>
+      <s:price currency="CAD">97.99</s:price>
+      <s:sku>SWTDVKT15</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/671361892413</id>
+      <title>18&quot;W</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>SWTDVKT18</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/668900851773</id>
+    <published>2018-04-19T21:56:54-03:00</published>
+    <updated>2018-04-19T21:56:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swopwlcb"/>
+    <title>Open Wall Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Wall_Open_Cabinet_56935249-05fe-4819-9aa6-49837c42defc.png?v=1584666605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            188.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Finished interior open cabinet. Can insert a microwave shelf. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668900851773</id>
+      <title>30&quot;W X 18&quot;D</title>
+      <s:price currency="CAD">188.99</s:price>
+      <s:sku>SWB-OPWLCB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/668892364861</id>
+    <published>2018-04-19T21:50:34-03:00</published>
+    <updated>2018-04-19T21:50:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swfshl"/>
+    <title>Floating Wall Shelf</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Frameless_Shelving_9105c176-7bc3-49e3-be89-cdfcc2073864.png?v=1584666589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            207.99 - 319.99
+            <a href="https://topshelfcabinetscanada.ca/products/swfshl">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floating Wall Shelf</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668892364861</id>
+      <title>36&quot;Wx12&quot;D</title>
+      <s:price currency="CAD">207.99</s:price>
+      <s:sku>SWB-FWS36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668892364861</id>
+      <title>48&quot;Wx12&quot;D</title>
+      <s:price currency="CAD">247.99</s:price>
+      <s:sku>SWB-FWS48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668892364861</id>
+      <title>60&quot;Wx12&quot;D</title>
+      <s:price currency="CAD">319.99</s:price>
+      <s:sku>SWB-FWS60</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/668858220605</id>
+    <published>2018-04-19T21:26:05-03:00</published>
+    <updated>2018-04-19T21:26:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swwso"/>
+    <title>Wine Rack Kit for Open Wall Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/X_wine_rack_kit_e39e267c-1f38-44c7-b4cf-2671f3c05c90.png?v=1584666576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine Rack Kit for Open Wall Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668858220605</id>
+      <title>30&quot;W X 12&quot;D X 18&quot;H</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>SWB-WWSK</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/668706734141</id>
+    <published>2018-04-19T19:57:12-03:00</published>
+    <updated>2018-04-19T19:57:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swwmsonl"/>
+    <title>SHELF ONLY for Wall Microwave Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Microwave_Shelf_4b8d43fe-f2ed-406d-9501-2d75758bce59.png?v=1584666562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668706734141</id>
+      <title>30&quot;W X 24&quot;D</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>SWB-MSHELF30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/668680716349</id>
+    <published>2018-04-19T19:48:14-03:00</published>
+    <updated>2018-04-19T19:48:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/sw1drawer"/>
+    <title>Drawer ONLY</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/1_Drawer_184f90f9-20ab-41bc-9af4-5506a751271b.png?v=1584666548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            409.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Drawer Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668680716349</id>
+      <title>30&quot;W X 24&quot;D</title>
+      <s:price currency="CAD">409.99</s:price>
+      <s:sku>SWB-1DR30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/668639428669</id>
+    <published>2018-04-19T19:32:39-03:00</published>
+    <updated>2018-04-19T19:32:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/sw2db"/>
+    <title>Base 2 Drawer Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/2_drawer_base_c2aee277-48e2-4681-8892-606032fd6172.png?v=1584666532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            618.99 - 891.99
+            <a href="https://topshelfcabinetscanada.ca/products/sw2db">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Drawer Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668639428669</id>
+      <title>18&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">618.99</s:price>
+      <s:sku>SWB-2DB18</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668639428669</id>
+      <title>24&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">696.99</s:price>
+      <s:sku>SWB-2DB24</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668639428669</id>
+      <title>30&quot;W X 24&quot;D X 34-1/2&quot;H</title>
+      <s:price currency="CAD">783.99</s:price>
+      <s:sku>SWB-2DB30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668639428669</id>
+      <title>36&quot;W X 24&quot;D X 34-1/2&quot;H</title>
+      <s:price currency="CAD">891.99</s:price>
+      <s:sku>SWB-2DB36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/668582969405</id>
+    <published>2018-04-19T19:04:48-03:00</published>
+    <updated>2018-04-19T19:04:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/fmhswhskb"/>
+    <title>Sink Base Farm House, 2 Doors</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Shaker_Dove_FH_a124696e-44db-47a9-980b-321fae8bf038.png?v=1584666521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            725.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sink Base Farm House, 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/668582969405</id>
+      <title>36&quot;W X 24&quot;D X 34-1/2&quot;H</title>
+      <s:price currency="CAD">725.99</s:price>
+      <s:sku>SWBFMH-SB36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/487632273446</id>
+    <published>2018-02-02T16:08:59-04:00</published>
+    <updated>2018-02-02T16:08:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swglddg"/>
+    <title>Glass Insert Door Cabinets</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/US36Wall1D_11dcb0bc-3a58-4127-82b9-e0c7abb20de4.jpg?v=1584665688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            692.99 - 866.99
+            <a href="https://topshelfcabinetscanada.ca/products/swglddg">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Cabinet with glass insert doors. Cabinet has a finished interior. Glass not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632273446</id>
+      <title>24&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">692.99</s:price>
+      <s:sku>SW-DCW2436GD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632273446</id>
+      <title>24&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">866.99</s:price>
+      <s:sku>SW-DCW2442GD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+    <published>2018-02-02T16:08:55-04:00</published>
+    <updated>2018-02-02T16:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swgld"/>
+    <title>Glass Insert Door Cabinets</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/w2D_0c18061f-02d3-487d-aa80-ac5dc2ccba98.jpg?v=1584665686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            176.99 - 518.99
+            <a href="https://topshelfcabinetscanada.ca/products/swgld">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Cabinet with glass insert doors. Cabinet has a finished interior. Glass not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>24&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">518.99</s:price>
+      <s:sku>SW-W2430GD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>24&quot;Wx12&quot;H DGW</title>
+      <s:price currency="CAD">453.99</s:price>
+      <s:sku>SW-WD2412DLGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>27&quot;Wx12&quot;H DGW</title>
+      <s:price currency="CAD">517.99</s:price>
+      <s:sku>SW-WD2712DGGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>12&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">176.99</s:price>
+      <s:sku>SW-WD1212DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>15&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">208.99</s:price>
+      <s:sku>SW-WD1512DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>18&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">230.99</s:price>
+      <s:sku>SW-WD1812DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>21&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">264.99</s:price>
+      <s:sku>SW-WD2112DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>24&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">302.99</s:price>
+      <s:sku>SW-WD2412DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>27&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">341.99</s:price>
+      <s:sku>SW-WD2712DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>30&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">361.99</s:price>
+      <s:sku>SW-WD3012DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>33&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">379.99</s:price>
+      <s:sku>SW-WD3312DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/487632207910</id>
+      <title>36&quot;Wx12&quot;H GD</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku>SW-WD3612DG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/459581063206</id>
+    <published>2018-01-06T11:59:50-04:00</published>
+    <updated>2018-01-06T11:59:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swsmpld1"/>
+    <title>Shaker White Sample Door</title>
+    <s:type>Shaker White Sample Door</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Shaker_White_preview.jpeg?v=1584665655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White Sample Door<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE Shipping on All Sample Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/459581063206</id>
+      <title>11&quot;Wx3/4&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>SW-SD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647575747</id>
+    <published>2017-11-26T20:49:46-04:00</published>
+    <updated>2017-11-26T20:49:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swincrwn"/>
+    <title>Crown Molding Insert</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingInside_f092be23-78ee-4587-b415-52344011e6e8.jpg?v=1584663235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            239.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Insert Crown Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647575747</id>
+      <title>98&quot;Wx 3 5/16&quot;Hx2.5&quot;D</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>SW-ICM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647565059</id>
+    <published>2017-11-26T20:48:24-04:00</published>
+    <updated>2017-11-26T20:48:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swswflo"/>
+    <title>Corner Sink Floor</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Base_Corner_Sink_Floor_f215f734-51f9-4ea0-ba71-73d9bdad24ab.jpg?v=1584663192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            140.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Corner Sink Front Floor - Bottom Shelf only. Goes with DCSF42</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647565059</id>
+      <title>42&quot;x42&quot;</title>
+      <s:price currency="CAD">140.99</s:price>
+      <s:sku>SW-SBFLR4242</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+    <published>2017-11-15T09:33:29-04:00</published>
+    <updated>2017-11-15T09:33:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swwbrg24"/>
+    <title>24&quot; Deep Bridge Wall  Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS24_DBridgeC_bbe654cc-6d80-4006-9ed0-b4108d20e21e.jpg?v=1584663623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            437.99 - 677.99
+            <a href="https://topshelfcabinetscanada.ca/products/swwbrg24">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24" Deep Bridge Wall  Cabinet 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>30&quot;Wx12&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">437.99</s:price>
+      <s:sku>SW-W301224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>30&quot;Wx15&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">458.99</s:price>
+      <s:sku>SW-W301524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>30&quot;Wx18&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">490.99</s:price>
+      <s:sku>SW-W301824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>30&quot;Wx24&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">644.99</s:price>
+      <s:sku>SW-W302424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>33&quot;Wx12&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">451.99</s:price>
+      <s:sku>SW-W331224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>33&quot;Wx15&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">479.99</s:price>
+      <s:sku>SW-W331524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>33&quot;Wx18&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">516.99</s:price>
+      <s:sku>SW-W331824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>33&quot;Wx24&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">669.99</s:price>
+      <s:sku>SW-W332424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>36&quot;Wx12&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">458.99</s:price>
+      <s:sku>SW-W361224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>36&quot;Wx15&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">482.99</s:price>
+      <s:sku>SW-W361524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>36&quot;Wx18&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">518.99</s:price>
+      <s:sku>SW-W361824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/9102348622</id>
+      <title>36&quot;Wx24&quot;Hx24&quot;D</title>
+      <s:price currency="CAD">677.99</s:price>
+      <s:sku>SW-W363424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647574403</id>
+    <published>2017-10-24T10:28:28-03:00</published>
+    <updated>2017-10-24T10:28:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swv212"/>
+    <title>Vanity</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/VANITY-center_DRAWER-CABINETS_3b828a7d-63aa-405d-8e32-3fd918eed360.jpg?v=1584663227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            907.99 - 1097.99
+            <a href="https://topshelfcabinetscanada.ca/products/swv212">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity 2 Top Drawers, 1 Center False Drawer, 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647574403</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">907.99</s:price>
+      <s:sku>SW-VSD36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647574403</id>
+      <title>42&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1000.99</s:price>
+      <s:sku>SW-VSD42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647574403</id>
+      <title>48&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1097.99</s:price>
+      <s:sku>SW-VSD48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647575619</id>
+    <published>2017-10-24T10:23:42-03:00</published>
+    <updated>2017-10-24T10:23:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swdcrwn"/>
+    <title>Crown Molding Decorative</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USDecCrown.jpg?v=1584663234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            121.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decorative Crown Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647575619</id>
+      <title>96&quot;Wx3&quot;Hx2 &quot;D</title>
+      <s:price currency="CAD">121.99</s:price>
+      <s:sku>SW-DCM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647575299</id>
+    <published>2017-10-24T10:23:42-03:00</published>
+    <updated>2017-10-24T10:23:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swcrw"/>
+    <title>Crown Molding</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Cove_Crown_Moulding.jpg?v=1584663232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            208.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crown Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647575299</id>
+      <title>3&quot;Hx2&quot;Dx96&quot;W</title>
+      <s:price currency="CAD">208.99</s:price>
+      <s:sku>SW-CM8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647565379</id>
+    <published>2017-10-23T23:26:24-03:00</published>
+    <updated>2017-10-23T23:26:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swlzsb"/>
+    <title>Lazy Susan Base Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLazySusan_9922ed5b-f21c-47b5-bcf8-4e5c098c29ec.jpg?v=1584663195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            1193.99 - 1275.99
+            <a href="https://topshelfcabinetscanada.ca/products/swlzsb">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lazy Susan with 2 Stainless Steel Baskets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647565379</id>
+      <title>33&quot;Wx34.5&quot;Hx33&quot;D</title>
+      <s:price currency="CAD">1193.99</s:price>
+      <s:sku>SW-LSB33</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647565379</id>
+      <title>36&quot;Wx34.5&quot;Hx36&quot;D</title>
+      <s:price currency="CAD">1275.99</s:price>
+      <s:sku>SW-LSB36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647565699</id>
+    <published>2017-10-23T23:25:56-03:00</published>
+    <updated>2017-10-23T23:25:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swbbl"/>
+    <title>Blind Base Corner Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BlindBases_70e98f4a-adf6-4956-8426-ff1112cea36b.jpg?v=1584663196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            645.99 - 782.99
+            <a href="https://topshelfcabinetscanada.ca/products/swbbl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blind Base Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647565699</id>
+      <title>27&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">645.99</s:price>
+      <s:sku>SW-BBC36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647565699</id>
+      <title>39&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">782.99</s:price>
+      <s:sku>SW-BBC42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647565187</id>
+    <published>2017-10-23T23:25:56-03:00</published>
+    <updated>2017-10-23T23:25:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swezrb"/>
+    <title>Base Easy Reach Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseEasyReach_bff2e689-b908-40c4-ba45-10df4ac6a496.jpg?v=1584663193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            813.99 - 901.99
+            <a href="https://topshelfcabinetscanada.ca/products/swezrb">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Easy Reach Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647565187</id>
+      <title>33&quot;Wx34.5&quot;Hx33&quot;D</title>
+      <s:price currency="CAD">813.99</s:price>
+      <s:sku>SW-BER33</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647565187</id>
+      <title>36&quot;Wx34.5&quot;Hx36&quot;D</title>
+      <s:price currency="CAD">901.99</s:price>
+      <s:sku>SW-BER36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647564739</id>
+    <published>2017-10-23T23:25:56-03:00</published>
+    <updated>2017-10-23T23:25:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swskbfr"/>
+    <title>Corner Sink Base Front</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseCornerSinkFront_033ccff3-9b89-49f9-881c-c25f948f70ca.jpg?v=1584663191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            308.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Corner Sink Base Front - Goes with SBF4242</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647564739</id>
+      <title>26.25&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">308.99</s:price>
+      <s:sku>SW-DSWF42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11420068814</id>
+    <published>2017-10-23T21:58:07-03:00</published>
+    <updated>2017-10-23T21:58:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swwnrk"/>
+    <title>Wine Rack Cabinet</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSWineRack_35417428-6368-4ac9-befc-9f658c785053.jpg?v=1584663977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            435.99 - 479.99
+            <a href="https://topshelfcabinetscanada.ca/products/swwnrk">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine Rack Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11420068814</id>
+      <title>24&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">479.99</s:price>
+      <s:sku>SW-WRC2430</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11420068814</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">435.99</s:price>
+      <s:sku>SW-WRC3018</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647580867</id>
+    <published>2017-10-23T21:58:06-03:00</published>
+    <updated>2017-10-23T21:58:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swwsknpl"/>
+    <title>Wall Skin Panel</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/wall_Skin_Panel.jpg?v=1584663263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Skin Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647580867</id>
+      <title>15&quot;Wx1/4&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SW-WSV42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647580675</id>
+    <published>2017-10-23T21:58:06-03:00</published>
+    <updated>2017-10-23T21:58:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swwedpl"/>
+    <title>Wall Decorative End Panel</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USWallDecEndPanel_9f160adc-4cba-4913-b1e1-dc0de8a95675.jpg?v=1584663262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            105.99 - 139.99
+            <a href="https://topshelfcabinetscanada.ca/products/swwedpl">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Decorative End Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647580675</id>
+      <title>11.5&quot;Wx3/4&quot;Dx29&quot;H</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku>SW-WDEP30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647580675</id>
+      <title>11.5&quot;Wx3/4&quot;Dx35&quot;H</title>
+      <s:price currency="CAD">123.99</s:price>
+      <s:sku>SW-WDEP36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647580675</id>
+      <title>11.5&quot;Wx3/4&quot;Dx41&quot;H</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>SW-WDEP42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/4647580419</id>
+    <published>2017-10-23T21:58:05-03:00</published>
+    <updated>2017-10-23T21:58:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/swvepl"/>
+    <title>Vanity End Panel</title>
+    <s:type>Shaker White</s:type>
+    <s:vendor>US Cabinets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/vanity_end_Panel.jpg?v=1584663260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>US Cabinets<br>
+        <strong>Type: </strong>Shaker White<br>
+        <strong>Price: </strong>
+            204.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity End Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/4647580419</id>
+      <title>20.5&quot;Wx3/4&quot;Dx29&quot;H</title>
+      <s:price currency="CAD">204.99</s:price>
+      <s:sku>SW-VDEP</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topshelfcabinetscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topshelfcabinetscanada.ca/collections/uptown-white.atom"/>
+  <title>Top Shelf Cabinets Canada</title>
+  <updated>2018-07-21T05:33:06-03:00</updated>
+  <author>
+    <name>Top Shelf Cabinets Canada</name>
+  </author>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340316778557</id>
+    <published>2018-07-21T05:33:06-03:00</published>
+    <updated>2018-07-21T05:33:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/upwbtml"/>
+    <title>Batten Molding</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Batten_M_67f21fa6-0b1f-4905-9fe1-77a0d6097a1f.png?v=1584666892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340316778557</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>UTW-BTM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/970673782845</id>
+    <published>2018-07-19T19:14:31-03:00</published>
+    <updated>2018-07-19T19:14:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwfsb"/>
+    <title>Farmhouse Sink Base Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Farmhouse_Sink_Base_fc60f606-e214-4bf2-b67f-e47269f56e6f.png?v=1584666854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            848.99 - 924.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwfsb">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Farmhouse Sink Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/970673782845</id>
+      <title>30&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">848.99</s:price>
+      <s:sku>UW-FSB30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/970673782845</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">883.99</s:price>
+      <s:sku>UW-FSB33</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/970673782845</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">924.99</s:price>
+      <s:sku>UW-FSB36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/730573701181</id>
+    <published>2018-05-09T10:05:19-03:00</published>
+    <updated>2018-05-09T10:05:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwfbkp"/>
+    <title>Finished Back Panel</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/48-36_e49f61b9-400a-4c51-97a1-f4c6ea8da6b3.png?v=1584666654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            181.99 - 321.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwfbkp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finished Back Panel Panelling</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573701181</id>
+      <title>1/4&quot;Dx48&quot;Wx36&quot;L</title>
+      <s:price currency="CAD">181.99</s:price>
+      <s:sku>UW-F483614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573701181</id>
+      <title>1/4&quot;Dx36&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">302.99</s:price>
+      <s:sku>UW-F963614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573701181</id>
+      <title>1/4&quot;Dx48&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">321.99</s:price>
+      <s:sku>UW-F964814(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/526612594749</id>
+    <published>2018-03-04T12:26:43-04:00</published>
+    <updated>2018-03-04T12:26:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/upwsldr1"/>
+    <title>Uptown White Shaker Sample Door</title>
+    <s:type>Uptown White Shaker Sample Door</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/uptown.png?v=1584665726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker Sample Door<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE Shipping on All Sample Doors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/526612594749</id>
+      <title>11&quot;Wx3/4&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>UW-SD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484939790</id>
+    <published>2017-10-24T00:17:10-03:00</published>
+    <updated>2017-10-24T00:17:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwaplq"/>
+    <title>Wood Applique</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMWoodAppliqueDOA_761d828d-85d9-4b55-81ab-58720f1ab4d4.jpg?v=1584665098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            395.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood Applique</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939790</id>
+      <title>10&quot; approx</title>
+      <s:price currency="CAD">395.99</s:price>
+      <s:sku>UW-DOA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484938638</id>
+    <published>2017-10-24T00:11:17-03:00</published>
+    <updated>2017-10-24T00:11:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwcrn96k4"/>
+    <title>Crown Molding is Straight</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Crown_K4_d5488753-a98c-4908-aa82-5aa49bc939c7.png?v=1584665082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            274.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crown Molding is Straight</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484938638</id>
+      <title>4&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">274.99</s:price>
+      <s:sku>UW-CM96K4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484938510</id>
+    <published>2017-10-24T00:11:17-03:00</published>
+    <updated>2017-10-24T00:11:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwcrnst"/>
+    <title>Crown Molding is Straight</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMCrownCM96E4_a4de3160-ecf4-4c83-8657-76dd208d05fb.jpg?v=1584665079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            293.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crown Molding is Straight</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484938510</id>
+      <title>5.5&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">293.99</s:price>
+      <s:sku>UW-CM96E4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484940302</id>
+    <published>2017-10-24T00:10:37-03:00</published>
+    <updated>2017-10-24T00:10:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwscorbl75"/>
+    <title>Corbel - Large -Recessed Center</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/75L_Corbel_f98dbcf0-9643-47f9-9276-bc93d741abf2.png?v=1584665107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Corbel - Recessed Center</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940302</id>
+      <title>3 1/4&quot;Wx12 1/2&quot;Hx 8&quot;D</title>
+      <s:price currency="CAD">449.99</s:price>
+      <s:sku>UW-Corbel75L</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484939150</id>
+    <published>2017-10-24T00:09:35-03:00</published>
+    <updated>2017-10-24T00:09:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwbfd"/>
+    <title>Base Filler</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillerBase_a50fc6f2-790d-4523-b46b-9697195cdbd7.jpg?v=1584665088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            68.99 - 110.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwbfd">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Filler</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939150</id>
+      <title>3&quot;Wx34.5&quot;H</title>
+      <s:price currency="CAD">68.99</s:price>
+      <s:sku>UW-BF3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939150</id>
+      <title>6&quot;Wx34/5&quot;H</title>
+      <s:price currency="CAD">110.99</s:price>
+      <s:sku>UW-BF6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484934862</id>
+    <published>2017-10-24T00:08:34-03:00</published>
+    <updated>2017-10-24T00:08:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uw36w2d"/>
+    <title>36&quot; Wall Cabinet 2 Doors</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/US36Wall2D_d44b9765-6674-4147-ad2b-7f99f000c24a.jpg?v=1584665039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            445.99 - 645.99
+            <a href="https://topshelfcabinetscanada.ca/products/uw36w2d">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>36" Wall Cabinet 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484934862</id>
+      <title>21&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">445.99</s:price>
+      <s:sku>UW-W2136</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484934862</id>
+      <title>24&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">471.99</s:price>
+      <s:sku>UW-W2436</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484934862</id>
+      <title>27&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">537.99</s:price>
+      <s:sku>UW-W2736</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484934862</id>
+      <title>30&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">578.99</s:price>
+      <s:sku>UW-W3036</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484934862</id>
+      <title>33&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">613.99</s:price>
+      <s:sku>UW-W3336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484934862</id>
+      <title>36&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">645.99</s:price>
+      <s:sku>UW-W3636</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+    <published>2017-10-24T00:07:54-03:00</published>
+    <updated>2017-10-24T00:07:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwbrgc24"/>
+    <title>24&quot;Deep Wall Bridge Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS24_DBridgeC_5cead592-84e7-42f1-91e1-7922894ee7cd.jpg?v=1584665046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            393.99 - 529.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwbrgc24">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24"Deep Wall Bridge Cabinet with 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>36&quot;Wx24&quot;Dx12&quot;H</title>
+      <s:price currency="CAD">393.99</s:price>
+      <s:sku>UW-W361224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>30&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">393.99</s:price>
+      <s:sku>UW-W301524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>33&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">408.99</s:price>
+      <s:sku>UW-W331524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>36&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">431.99</s:price>
+      <s:sku>UW-W361524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>30&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">478.99</s:price>
+      <s:sku>UW-W301824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>33&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">485.99</s:price>
+      <s:sku>UW-W331824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>33&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">514.99</s:price>
+      <s:sku>UW-W332424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>36&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">492.99</s:price>
+      <s:sku>UW-W361824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>30&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">469.99</s:price>
+      <s:sku>UW-W302424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935374</id>
+      <title>36&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">529.99</s:price>
+      <s:sku>UW-W362424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484936526</id>
+    <published>2017-10-23T23:47:16-03:00</published>
+    <updated>2017-10-23T23:47:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwezr"/>
+    <title>Easy Reach Base Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseEasyReach_0ef93c80-4c34-40dd-96c9-01adf23c0566.jpg?v=1584665061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            984.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy reach Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484936526</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">984.99</s:price>
+      <s:sku>UW-BLS3612S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/5505594051</id>
+    <published>2017-10-23T23:47:12-03:00</published>
+    <updated>2017-10-23T23:47:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwblz"/>
+    <title>Lazy Susan Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLazySusan_dd867cdf-5ff7-4da7-89c5-70ff1e2599f0.jpg?v=1584663588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            1028.99 - 1110.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwblz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lazy Susan Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/5505594051</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1028.99</s:price>
+      <s:sku>UW-BLS3309</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/5505594051</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1110.99</s:price>
+      <s:sku>UW-BLS3612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484936590</id>
+    <published>2017-10-23T23:46:54-03:00</published>
+    <updated>2017-10-23T23:46:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwblb"/>
+    <title>Blind Base Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BlindBases_0a7be1b0-c1ab-45da-a3a2-d18afc2a9d32.jpg?v=1584665062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            798.99 - 813.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwblb">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blind Base Cabinets 1 door and 1 drawer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484936590</id>
+      <title>24&quot;Dx34&quot;H x 39-42&quot;W</title>
+      <s:price currency="CAD">798.99</s:price>
+      <s:sku>UW-BLB39/42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484936590</id>
+      <title>24&quot;Dx34&quot;H x 42-445&quot;W</title>
+      <s:price currency="CAD">808.99</s:price>
+      <s:sku>UW-BLB42/45</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484936590</id>
+      <title>24&quot;Dx34&quot;H x 45-48&quot;W</title>
+      <s:price currency="CAD">813.99</s:price>
+      <s:sku>UW-BLB45/48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484936334</id>
+    <published>2017-10-23T23:46:53-03:00</published>
+    <updated>2017-10-23T23:46:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwbdcf-fl"/>
+    <title>Base Diagonal Corner Cabinet Front, toe kick and floor only</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/DSB_Front_57541db3-1ea1-4403-97be-86458d0018a6.jpg?v=1584665060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            313.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet Front, toe kick and floor only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484936334</id>
+      <title>14&quot;Wx36&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">313.99</s:price>
+      <s:sku>UW-BDCF36FFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484936270</id>
+    <published>2017-10-23T23:46:53-03:00</published>
+    <updated>2017-10-23T23:46:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwbdc"/>
+    <title>Base Diagonal Corner Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseCornerSink_6abc2d8b-92e6-4a5d-9814-06216f427ba0.jpg?v=1584665059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            1037.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484936270</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1037.99</s:price>
+      <s:sku>UW-BDCF36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484940878</id>
+    <published>2017-10-17T22:29:44-03:00</published>
+    <updated>2017-10-17T22:29:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwbxc"/>
+    <title>Boxed Columns</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Colum.png?v=1584665111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            217.99 - 997.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwbxc">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boxed Columns</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940878</id>
+      <title>3&quot;Wx34.5&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">332.99</s:price>
+      <s:sku>UWS-CLB334-1/2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940878</id>
+      <title>3&quot;Wx30&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">217.99</s:price>
+      <s:sku>UWS-CLBW330</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940878</id>
+      <title>3&quot;Wx36&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">255.99</s:price>
+      <s:sku>UWS-CLBW336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940878</id>
+      <title>3&quot;Wx42&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>UWS-CLBW342</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940878</id>
+      <title>3&quot;Wx96&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">997.99</s:price>
+      <s:sku>UWS-CLBW396</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486042126</id>
+    <published>2017-10-17T21:43:39-03:00</published>
+    <updated>2017-10-17T21:43:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uww4dptry"/>
+    <title>Pantry Cabinet, 4 Doors</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/US4DPantry_a855a554-7329-4ea2-88ff-32919821410f.jpg?v=1584665256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            1705.99 - 1964.99
+            <a href="https://topshelfcabinetscanada.ca/products/uww4dptry">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four Door Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042126</id>
+      <title>24&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1705.99</s:price>
+      <s:sku>UW-WP242484B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042126</id>
+      <title>24&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1835.99</s:price>
+      <s:sku>UW-WP242490B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042126</id>
+      <title>24&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1964.99</s:price>
+      <s:sku>UW-WP242496B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486042062</id>
+    <published>2017-10-17T21:43:39-03:00</published>
+    <updated>2017-10-17T21:43:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uw2dptry"/>
+    <title>Pantry Cabinet, 2 Doors</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Pantry_c4f3c7c0-b3b0-4802-b35b-29bcf1110440.jpg?v=1584665254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            1253.99 - 1565.99
+            <a href="https://topshelfcabinetscanada.ca/products/uw2dptry">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two Door Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042062</id>
+      <title>18&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1361.99</s:price>
+      <s:sku>UW-WP182484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042062</id>
+      <title>18&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1465.99</s:price>
+      <s:sku>UW-WP182490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042062</id>
+      <title>18&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1565.99</s:price>
+      <s:sku>UW-WP182496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042062</id>
+      <title>15&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1253.99</s:price>
+      <s:sku>UW-WP142484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042062</id>
+      <title>15&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1307.99</s:price>
+      <s:sku>UW-WP152490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486042062</id>
+      <title>15&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1396.99</s:price>
+      <s:sku>UW-WP152496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484940430</id>
+    <published>2017-10-17T18:08:04-03:00</published>
+    <updated>2017-10-17T18:08:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwwcc"/>
+    <title>Wall Cube Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Wallcubes.png?v=1584665108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            295.99 - 401.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwwcc">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Cube Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940430</id>
+      <title>24&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">295.99</s:price>
+      <s:sku>UW-WCCB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940430</id>
+      <title>24&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">347.99</s:price>
+      <s:sku>UW-WCCB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484940430</id>
+      <title>24&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">401.99</s:price>
+      <s:sku>UW-WCCB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484939214</id>
+    <published>2017-10-17T18:08:04-03:00</published>
+    <updated>2017-10-17T18:08:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwwff"/>
+    <title>Wall Fluted Base Filler with Square</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillerFluted_10ecb2ef-ee3f-48c2-af61-512f3f44a277.jpg?v=1584665089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            68.99 - 94.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwwff">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Fluted Base Filler with Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939214</id>
+      <title>3&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">68.99</s:price>
+      <s:sku>UW-A30WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939214</id>
+      <title>3&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku>UW-A36WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939214</id>
+      <title>3&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>UW-A42WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+    <published>2017-10-17T18:08:04-03:00</published>
+    <updated>2017-10-17T18:08:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwwfl"/>
+    <title>Wall Filler</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillersWallandTall_6b98b9f0-8c91-41e5-9392-327ebf52d2ed.jpg?v=1584665086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            42.99 - 275.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwwfl">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Filler</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+      <title>3&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>UW-WF330</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+      <title>3&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">52.99</s:price>
+      <s:sku>UW-WF336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+      <title>3&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku>UW-WF342</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+      <title>3&quot;Wx84&quot;H</title>
+      <s:price currency="CAD">123.99</s:price>
+      <s:sku>UW-WF384</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+      <title>3&quot;Wx96&quot;H</title>
+      <s:price currency="CAD">143.99</s:price>
+      <s:sku>UW-WF396</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+      <title>6&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku>UW-WF630</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+      <title>6&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>UW-WF642</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484939022</id>
+      <title>6&quot;Wx96&quot;H</title>
+      <s:price currency="CAD">275.99</s:price>
+      <s:sku>UW-WF696</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484937550</id>
+    <published>2017-10-17T18:08:04-03:00</published>
+    <updated>2017-10-17T18:08:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwwmrwc"/>
+    <title>Wall Microwave Oven Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/MRW_5506fed7-6c00-4763-81eb-2e217e6aba38.png?v=1584665073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            316.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Microwave Oven Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484937550</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">316.99</s:price>
+      <s:sku>UW-MWO3018PM-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484937486</id>
+    <published>2017-10-17T18:08:04-03:00</published>
+    <updated>2017-10-17T18:08:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwwnrk"/>
+    <title>Wine Rack</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSWineRack_6e299dd0-2ce4-4310-9771-f5c11fb40c62.jpg?v=1584665069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            375.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine Rack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484937486</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">375.99</s:price>
+      <s:sku>UW-W3018WR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484935630</id>
+    <published>2017-10-17T18:08:04-03:00</published>
+    <updated>2017-10-17T18:08:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/uwblwcc"/>
+    <title>Wall Blind Corner Cabinet</title>
+    <s:type>Uptown White Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Blind_Wall_d792f55d-815f-4a32-bab6-fec503e1ccb2.png?v=1584665050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Uptown White Shaker<br>
+        <strong>Price: </strong>
+            616.99 - 937.99
+            <a href="https://topshelfcabinetscanada.ca/products/uwblwcc">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Blind Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935630</id>
+      <title>30/33&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">616.99</s:price>
+      <s:sku>UW-BLCC30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935630</id>
+      <title>30/33&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">813.99</s:price>
+      <s:sku>UW-BLCC36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484935630</id>
+      <title>30/33&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">937.99</s:price>
+      <s:sku>UW-BLCC42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topshelfcabinetscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topshelfcabinetscanada.ca/collections/burgundy-glaze.atom"/>
+  <title>Top Shelf Cabinets Canada</title>
+  <updated>2018-10-18T20:08:40-03:00</updated>
+  <author>
+    <name>Top Shelf Cabinets Canada</name>
+  </author>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+    <published>2018-10-18T20:08:40-03:00</published>
+    <updated>2018-10-18T20:08:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgbrgc24"/>
+    <title>24&quot; Deep Wall Bridge Cabinets</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS24_DBridgeC_6a7525fe-e7c9-43bb-8b91-c38333d10f2c.jpg?v=1584666902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            307.99 - 415.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgbrgc24">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24" Deep Wall Bridge Cabinet with 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>36&quot;Wx24&quot;Dx12&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>BGB361224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>30&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">307.99</s:price>
+      <s:sku>BGB361524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>33&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">336.99</s:price>
+      <s:sku>BGB332415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>36&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">337.99</s:price>
+      <s:sku>BGB362415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>30&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">392.99</s:price>
+      <s:sku>BGB302418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>33&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">395.99</s:price>
+      <s:sku>BGB332418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>36&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku>BGB362418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>30&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">366.99</s:price>
+      <s:sku>BGB302424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471338557</id>
+      <title>36&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">415.99</s:price>
+      <s:sku>BGB362424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+    <published>2018-10-17T22:01:16-03:00</published>
+    <updated>2018-10-17T22:01:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgbrgc12"/>
+    <title>12&quot; Wall Bridge Cabinets</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/12_bridge.jpg?v=1584666898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            216.99 - 355.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgbrgc12">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" Deep Wall Bridge Cabinet with 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+      <title>24&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">216.99</s:price>
+      <s:sku>BGB241218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">248.99</s:price>
+      <s:sku>BGB301218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+      <title>33&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">265.99</s:price>
+      <s:sku>BGB331228</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+      <title>36&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">282.99</s:price>
+      <s:sku>BGB361218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+      <title>24&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">275.99</s:price>
+      <s:sku>BGR241224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+      <title>30&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>BGB31224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+      <title>33&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">333.99</s:price>
+      <s:sku>BGB331224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094394429</id>
+      <title>36&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">355.99</s:price>
+      <s:sku>BGB361224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340316647485</id>
+    <published>2018-07-21T05:33:03-03:00</published>
+    <updated>2018-07-21T05:33:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/brgbtml"/>
+    <title>Batten Molding</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Batten_M_2c43d15e-c263-4bfe-ad85-e79cf1c1fb14.png?v=1584666888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340316647485</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>BRG-BTM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340307341373</id>
+    <published>2018-07-21T05:14:43-03:00</published>
+    <updated>2018-07-21T05:14:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/brgshml"/>
+    <title>Shoe Molding</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Shoe_Moulding_020dbf76-41fb-4aab-bf9d-86b551b83d9e.jpg?v=1584666875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340307341373</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">61.99</s:price>
+      <s:sku>BRG-SHM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/730573439037</id>
+    <published>2018-05-09T10:05:07-03:00</published>
+    <updated>2018-05-09T10:05:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgfbkp"/>
+    <title>Finished Back Panel</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/48-36_3d42e39f-e8c1-419f-b442-6fbf5442aed3.png?v=1584666641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            173.99 - 316.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgfbkp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finished Back Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573439037</id>
+      <title>1/4&quot;Dx48&quot;Wx36&quot;L</title>
+      <s:price currency="CAD">173.99</s:price>
+      <s:sku>BG-F483614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573439037</id>
+      <title>1/4&quot;Dx36&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>BG-F963614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573439037</id>
+      <title>1/4&quot;Dx48&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">316.99</s:price>
+      <s:sku>BG-F964814(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/459581423654</id>
+    <published>2018-01-06T11:59:55-04:00</published>
+    <updated>2018-01-06T11:59:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgspldr1"/>
+    <title>Burgundy Glaze Sample Door</title>
+    <s:type>Burgundy Glaze Sample Door</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/bg6.jpg?v=1584665666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze Sample Door<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE Shipping on All Sample Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/459581423654</id>
+      <title>11&quot;Wx3/4&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>BG-SD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483639950</id>
+    <published>2017-10-24T00:04:20-03:00</published>
+    <updated>2017-10-24T00:04:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgblwcc"/>
+    <title>Wall Blind Corner Cabinet</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Blind_Wall.png?v=1584664310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            501.99 - 762.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgblwcc">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Blind Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483639950</id>
+      <title>30/33&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">501.99</s:price>
+      <s:sku>BG-BLCC30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483639950</id>
+      <title>30/33&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">666.99</s:price>
+      <s:sku>BG-BLCC36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483639950</id>
+      <title>30/33&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">762.99</s:price>
+      <s:sku>BG-BLCC42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483639950</id>
+      <title>39/42&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">551.99</s:price>
+      <s:sku>BG-BLCC3930</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483639694</id>
+    <published>2017-10-24T00:04:19-03:00</published>
+    <updated>2017-10-24T00:04:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgdwc"/>
+    <title>Wall Diagonal Corner Cabinets</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USDiaCornerWall_5882249f-96eb-4b67-8f95-4237afbd5bb2.jpg?v=1584664308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            448.99 - 596.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgdwc">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Corner  Cabinets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483639694</id>
+      <title>24&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">448.99</s:price>
+      <s:sku>BGBDC2430</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483639694</id>
+      <title>24&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">580.99</s:price>
+      <s:sku>BGBDC2436</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483639694</id>
+      <title>24&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">596.99</s:price>
+      <s:sku>BGBDC2442</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483644238</id>
+    <published>2017-10-24T00:03:52-03:00</published>
+    <updated>2017-10-24T00:03:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgdslbg52"/>
+    <title>Decorative LEG</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/52.png?v=1584664371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small Decorative LEG</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483644238</id>
+      <title>5&quot;H</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>BG-LBG52</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483643470</id>
+    <published>2017-10-24T00:03:52-03:00</published>
+    <updated>2017-10-24T00:03:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bglrmd"/>
+    <title>Light Rail Molding Detailed</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMLightRailTLRM8.jpg?v=1584664360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            387.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Rail Molding Detailed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483643470</id>
+      <title>1.5&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">387.99</s:price>
+      <s:sku>BG-TLRM8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483643406</id>
+    <published>2017-10-24T00:03:51-03:00</published>
+    <updated>2017-10-24T00:03:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bglrm"/>
+    <title>Light Rail Molding</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLightRailM_3e2d39b5-5c77-4999-8677-9c672357a408.jpg?v=1584664358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Rail Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483643406</id>
+      <title>1.5&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>BG-LRM8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483642958</id>
+    <published>2017-10-24T00:03:51-03:00</published>
+    <updated>2017-10-24T00:03:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgocnrm"/>
+    <title>Outside Corner Molding</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingOutside_f1bfe4f8-74e5-4d23-8da4-a42ac6d425ce.jpg?v=1584664353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Outside Corner Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483642958</id>
+      <title>3/4&quot;Wx3/4&quot;Dx96&quot;L</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>BG-SC5)CM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483642894</id>
+    <published>2017-10-24T00:03:51-03:00</published>
+    <updated>2017-10-24T00:03:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgicrm"/>
+    <title>Inside Corner Molding</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingInside_ba51677b-8280-4338-a915-10739aea6e4b.jpg?v=1584664352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside Corner Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483642894</id>
+      <title>3/&quot;Wx3/4&quot;Dx96&quot;L</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>BG-SC4ICM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483641934</id>
+    <published>2017-10-24T00:03:50-03:00</published>
+    <updated>2017-10-24T00:03:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgrfgp"/>
+    <title>Refrigerator End Panel</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFridgeEndPanel_c429cd46-46b7-4d6f-bee7-825bd80b0cb8.jpg?v=1584664338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            392.99 - 728.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgrfgp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Refrigerator End Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641934</id>
+      <title>3/4W&quot;x24Dx84&quot;H</title>
+      <s:price currency="CAD">392.99</s:price>
+      <s:sku>BG-REP2484-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641934</id>
+      <title>3/4W&quot;x24x96&quot;H</title>
+      <s:price currency="CAD">448.99</s:price>
+      <s:sku>BG-REP2496-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641934</id>
+      <title>3&quot;W&quot;x24x84&quot;H</title>
+      <s:price currency="CAD">452.99</s:price>
+      <s:sku>BG-REP2484(3)-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641934</id>
+      <title>3&quot;W&quot;x24x96&quot;H</title>
+      <s:price currency="CAD">541.99</s:price>
+      <s:sku>BG-REP2496(3)-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641934</id>
+      <title>3&quot;W&quot;x30x96&quot;H</title>
+      <s:price currency="CAD">728.99</s:price>
+      <s:sku>BG-REP3096(3)-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483641294</id>
+    <published>2017-10-24T00:03:50-03:00</published>
+    <updated>2017-10-24T00:03:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bggdm"/>
+    <title>Glass Doors</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS36_SpecialTrueDividedLites.jpg?v=1584664330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            167.99 - 450.99
+            <a href="https://topshelfcabinetscanada.ca/products/bggdm">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glass Doors for Wall Cabinets with Mullion, Frosted Glass</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641294</id>
+      <title>30&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">321.99</s:price>
+      <s:sku>BG-W3030BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641294</id>
+      <title>24&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">167.99</s:price>
+      <s:sku>BG-WDC2430MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641294</id>
+      <title>30&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">366.99</s:price>
+      <s:sku>BG-W3036BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641294</id>
+      <title>24&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">204.99</s:price>
+      <s:sku>BG-WDC2436MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641294</id>
+      <title>30&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">450.99</s:price>
+      <s:sku>BG-W3042BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641294</id>
+      <title>27&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>BG-WDC2442MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483641230</id>
+    <published>2017-10-24T00:03:50-03:00</published>
+    <updated>2017-10-24T00:03:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgopes"/>
+    <title>Open End Wall Cabinet</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSOpenEnd_415a2d57-67ef-45b0-80cc-d7b4df1c53b3.jpg?v=1584664329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            166.99 - 239.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgopes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Open End Wall Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641230</id>
+      <title>5&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">166.99</s:price>
+      <s:sku>BG-OE530</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641230</id>
+      <title>5&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">204.99</s:price>
+      <s:sku>BG-OE536</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641230</id>
+      <title>5&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>BG-OE542</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483643854</id>
+    <published>2017-10-24T00:03:40-03:00</published>
+    <updated>2017-10-24T00:03:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgbff"/>
+    <title>Fluted Base Filler with Square</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillerFluted_adf86c33-7124-48e8-8a4d-59331d1454ce.jpg?v=1584664366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            93.99 - 190.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgbff">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fluted Base Filler with Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483643854</id>
+      <title>3&quot;Wx34.5&quot;H</title>
+      <s:price currency="CAD">93.99</s:price>
+      <s:sku>BG-BFFL3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483643854</id>
+      <title>6&quot;Wx34/5&quot;H</title>
+      <s:price currency="CAD">190.99</s:price>
+      <s:sku>BG-BFFL6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483641870</id>
+    <published>2017-10-24T00:03:40-03:00</published>
+    <updated>2017-10-24T00:03:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgdswp"/>
+    <title>Dishwasher End Panel</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSPanelDishEnd.jpg?v=1584664337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            151.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dishwasher End Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641870</id>
+      <title>3&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">151.99</s:price>
+      <s:sku>BG-DWR33412</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483641038</id>
+    <published>2017-10-24T00:03:39-03:00</published>
+    <updated>2017-10-24T00:03:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgawe"/>
+    <title>Angle Wall End Cabinet</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Wall_Angle_Cabinet-1_0cda2ba3-cfa7-4ff5-a761-e4fc54fd5618.jpg?v=1584664327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            321.99 - 450.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgawe">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angle Wall End Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641038</id>
+      <title>24Wx24&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">321.99</s:price>
+      <s:sku>BG-WUW-AE30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641038</id>
+      <title>24Wx24&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">387.99</s:price>
+      <s:sku>BG-WUW-AE36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483641038</id>
+      <title>24Wx24&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">450.99</s:price>
+      <s:sku>BG-WUW-AE42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483640206</id>
+    <published>2017-10-24T00:03:39-03:00</published>
+    <updated>2017-10-24T00:03:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgb12"/>
+    <title>Base Cabinet 1 drawers, 2 doors</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/B2D1D.jpg?v=1584664313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            437.99 - 591.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgb12">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Cabinet 1 drawers, 2 doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640206</id>
+      <title>24&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">437.99</s:price>
+      <s:sku>BGB24</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640206</id>
+      <title>27&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">465.99</s:price>
+      <s:sku>BGB27</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640206</id>
+      <title>30&quot;&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">539.99</s:price>
+      <s:sku>BGB30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640206</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">560.99</s:price>
+      <s:sku>BGB33</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640206</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">591.99</s:price>
+      <s:sku>BGB36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483640782</id>
+    <published>2017-10-23T23:47:13-03:00</published>
+    <updated>2017-10-23T23:47:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgezr"/>
+    <title>Easy Reach Base Cabinet</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseEasyReach_58138d17-76fb-4bca-b46c-212ab3a17c4f.jpg?v=1584664323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            761.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy Reach Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640782</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">761.99</s:price>
+      <s:sku>BG-BLS3612S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483640718</id>
+    <published>2017-10-23T23:47:13-03:00</published>
+    <updated>2017-10-23T23:47:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgblz"/>
+    <title>Lazy Susan Cabinet</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLazySusan_a7f105dd-6dc8-4eeb-8fd7-b8f2a054a8a5.jpg?v=1584664322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            809.99 - 874.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgblz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lazy Susan Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640718</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">809.99</s:price>
+      <s:sku>BG-BLS3309</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640718</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">874.99</s:price>
+      <s:sku>BG-BLS3612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483640910</id>
+    <published>2017-10-23T23:46:49-03:00</published>
+    <updated>2017-10-23T23:46:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgblb"/>
+    <title>Blind Base Cabinets 1 door and 1 drawer</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BlindBases_a86cc396-99b8-40f4-b6a9-4be724ae837f.jpg?v=1584664325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            613.99 - 625.99
+            <a href="https://topshelfcabinetscanada.ca/products/bgblb">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blind Base Cabinets 1 door and 1 drawer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640910</id>
+      <title>24&quot;Dx34&quot;H x 39-42&quot;W</title>
+      <s:price currency="CAD">613.99</s:price>
+      <s:sku>BG-BLBG-B39/42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640910</id>
+      <title>24&quot;Dx34&quot;H x 42-445&quot;W</title>
+      <s:price currency="CAD">622.99</s:price>
+      <s:sku>BG-BLBG-B42/45</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640910</id>
+      <title>24&quot;Dx34&quot;H x 45-48&quot;W</title>
+      <s:price currency="CAD">625.99</s:price>
+      <s:sku>BG-BLBG-B45/48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483640654</id>
+    <published>2017-10-23T23:46:49-03:00</published>
+    <updated>2017-10-23T23:46:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgbdcf-fl"/>
+    <title>Base Diagonal Corner Cabinet Front, toe kick and floor only</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/DSB_Front_4de57755-02f4-4fbd-ad74-44ad873998ea.jpg?v=1584664321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            247.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet Front, toe kick and floor only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640654</id>
+      <title>14&quot;Wx36&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">247.99</s:price>
+      <s:sku>BG-BDCF36FFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483640590</id>
+    <published>2017-10-23T23:46:49-03:00</published>
+    <updated>2017-10-23T23:46:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/bgbdc"/>
+    <title>Base Diagonal Corner Cabinet</title>
+    <s:type>Burgundy Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseCornerSink_9eb3a571-ff5b-40ef-b18a-1b8685b4182f.jpg?v=1584664320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Burgundy Glaze<br>
+        <strong>Price: </strong>
+            815.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483640590</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">815.99</s:price>
+      <s:sku>BG-BDCF36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

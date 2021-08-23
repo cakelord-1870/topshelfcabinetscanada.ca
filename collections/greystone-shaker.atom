@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topshelfcabinetscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topshelfcabinetscanada.ca/collections/greystone-shaker.atom"/>
+  <title>Top Shelf Cabinets Canada</title>
+  <updated>2018-07-21T05:33:01-03:00</updated>
+  <author>
+    <name>Top Shelf Cabinets Canada</name>
+  </author>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340316516413</id>
+    <published>2018-07-21T05:33:01-03:00</published>
+    <updated>2018-07-21T05:33:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gstbtml"/>
+    <title>Batten Molding</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Batten_M_7fb721c0-6faa-49dd-a172-16d4fbd8338e.png?v=1584666882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340316516413</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>GST-BTM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340307210301</id>
+    <published>2018-07-21T05:14:40-03:00</published>
+    <updated>2018-07-21T05:14:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gstshml"/>
+    <title>Shoe Molding</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Shoe_Moulding_a0431154-877f-4558-beb8-3a400118de8d.jpg?v=1584666870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340307210301</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">61.99</s:price>
+      <s:sku>GST-SHM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/970673717309</id>
+    <published>2018-07-19T19:14:30-03:00</published>
+    <updated>2018-07-19T19:14:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsfsb"/>
+    <title>Farmhouse Sink Base Cabinet</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Farmhouse_Sink_Base_e6c49746-a50e-48fe-9167-d8fdd10dd7c2.png?v=1584666853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            848.99 - 924.99
+            <a href="https://topshelfcabinetscanada.ca/products/gsfsb">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Farmhouse Sink Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/970673717309</id>
+      <title>30&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">848.99</s:price>
+      <s:sku>GS-FSB30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/970673717309</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">883.99</s:price>
+      <s:sku>GS-FSB33</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/970673717309</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">924.99</s:price>
+      <s:sku>GS-FSB36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/730573635645</id>
+    <published>2018-05-09T10:05:16-03:00</published>
+    <updated>2018-05-09T10:05:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsfbkp"/>
+    <title>Finished Back Panel</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/48-36_bb3061d4-e6a4-4360-b901-d64dde8e6b72.png?v=1584666651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            181.99 - 321.99
+            <a href="https://topshelfcabinetscanada.ca/products/gsfbkp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finished Back Panel Panelling</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573635645</id>
+      <title>1/4&quot;Dx48&quot;Wx36&quot;L</title>
+      <s:price currency="CAD">181.99</s:price>
+      <s:sku>GS-F483614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573635645</id>
+      <title>1/4&quot;Dx36&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">302.99</s:price>
+      <s:sku>GS-F963614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573635645</id>
+      <title>1/4&quot;Dx48&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">321.99</s:price>
+      <s:sku>GS-F964814(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/459581915174</id>
+    <published>2018-01-06T12:00:02-04:00</published>
+    <updated>2018-01-06T12:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsspldr1"/>
+    <title>Lait Grey Shaker Sample Door</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/ScreenShot2020-07-21at12.49.44PM.png?v=1595353238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE Shipping on All Sample Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/459581915174</id>
+      <title>11&quot;Wx3/4&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>GS-SD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483998862</id>
+    <published>2017-10-23T23:47:15-03:00</published>
+    <updated>2017-10-23T23:47:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsezr"/>
+    <title>Easy Reach Base Cabinet</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseEasyReach_85cef995-4bdb-4918-8742-98230b6e7410.jpg?v=1584664818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            984.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy reach Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483998862</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">984.99</s:price>
+      <s:sku>GS-BLS3612S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11468408270</id>
+    <published>2017-10-23T23:47:12-03:00</published>
+    <updated>2017-10-23T23:47:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsblz"/>
+    <title>Lazy Susan Cabinet</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLazySusan_cc5131b2-4a5c-4b53-a4b7-a88a827772bc.jpg?v=1584664154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            1028.99 - 1110.99
+            <a href="https://topshelfcabinetscanada.ca/products/gsblz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lazy Susan Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11468408270</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1028.99</s:price>
+      <s:sku>GS-BLS3309</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11468408270</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1110.99</s:price>
+      <s:sku>GS-BLS3612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483999054</id>
+    <published>2017-10-23T23:46:52-03:00</published>
+    <updated>2017-10-23T23:46:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsblb"/>
+    <title>Blind Base Cabinet</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BlindBases_667ec293-5e48-4922-9f11-2c9eec06efcf.jpg?v=1584664819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            798.99 - 813.99
+            <a href="https://topshelfcabinetscanada.ca/products/gsblb">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blind Base Cabinets 1 door and 1 drawer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483999054</id>
+      <title>24&quot;Dx34&quot;H x 39-42&quot;W</title>
+      <s:price currency="CAD">798.99</s:price>
+      <s:sku>GS-BLB39/42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483999054</id>
+      <title>24&quot;Dx34&quot;H x 42-445&quot;W</title>
+      <s:price currency="CAD">808.99</s:price>
+      <s:sku>GS-BLB42/45</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483999054</id>
+      <title>24&quot;Dx34&quot;H x 45-48&quot;W</title>
+      <s:price currency="CAD">813.99</s:price>
+      <s:sku>GS-BLB45/48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483998798</id>
+    <published>2017-10-23T23:46:52-03:00</published>
+    <updated>2017-10-23T23:46:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsbdcf-fl"/>
+    <title>Base Diagonal Corner Cabinet Front, toe kick and floor only</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/DSB_Front_ae00d9f0-2d89-4550-858e-2231448f41da.jpg?v=1584664817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            313.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet Front, toe kick and floor only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483998798</id>
+      <title>14&quot;Wx36&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">313.99</s:price>
+      <s:sku>GS-BDCF36FFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483998734</id>
+    <published>2017-10-23T23:46:51-03:00</published>
+    <updated>2017-10-23T23:46:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsbdc"/>
+    <title>Base Diagonal Corner Cabinet</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseCornerSink_d47f8b37-be8b-4ed8-8b7d-8f87e56ec11d.jpg?v=1584664816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            1037.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483998734</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1037.99</s:price>
+      <s:sku>GS-BDCF36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486207438</id>
+    <published>2017-10-17T22:35:58-03:00</published>
+    <updated>2017-10-17T22:35:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsbxc"/>
+    <title>Boxed Columns</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Colum_a8ca2e2e-1311-4331-8470-f184011021ac.png?v=1584665267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            217.99 - 997.99
+            <a href="https://topshelfcabinetscanada.ca/products/gsbxc">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boxed Columns</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486207438</id>
+      <title>3&quot;Wx34.5&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">332.99</s:price>
+      <s:sku>GSS-CLB334-1/2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486207438</id>
+      <title>3&quot;Wx30&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">217.99</s:price>
+      <s:sku>GSS-CLBW330</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486207438</id>
+      <title>3&quot;Wx36&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">255.99</s:price>
+      <s:sku>GSS-CLBW336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486207438</id>
+      <title>3&quot;Wx42&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>GSS-CLBW342</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486207438</id>
+      <title>3&quot;Wx96&quot;H x 24&quot;D</title>
+      <s:price currency="CAD">997.99</s:price>
+      <s:sku>GSS-CLBW396</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486041358</id>
+    <published>2017-10-17T21:43:38-03:00</published>
+    <updated>2017-10-17T21:43:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsw4dptry"/>
+    <title>Pantry Cabinet, 4 Doors</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/US4DPantry_97561dc5-9908-4976-b47a-648545d4a35b.jpg?v=1584665248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            1705.99 - 1964.99
+            <a href="https://topshelfcabinetscanada.ca/products/gsw4dptry">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four Door Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041358</id>
+      <title>24&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1705.99</s:price>
+      <s:sku>GS-WP242484B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041358</id>
+      <title>24&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1835.99</s:price>
+      <s:sku>GS-WP242490B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041358</id>
+      <title>24&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1964.99</s:price>
+      <s:sku>GS-WP242496B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486041294</id>
+    <published>2017-10-17T21:43:38-03:00</published>
+    <updated>2017-10-17T21:43:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gs2dptry"/>
+    <title>Pantry Cabinet, 2 Doors</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Pantry_16bb2f75-b0bc-4ba5-9728-4e7827a35b1e.jpg?v=1584665246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            1253.99 - 1565.99
+            <a href="https://topshelfcabinetscanada.ca/products/gs2dptry">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two Door Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041294</id>
+      <title>18&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1361.99</s:price>
+      <s:sku>GS-WP182484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041294</id>
+      <title>18&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1465.99</s:price>
+      <s:sku>GS-WP182490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041294</id>
+      <title>18&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1565.99</s:price>
+      <s:sku>GS-WP182496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041294</id>
+      <title>15&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1253.99</s:price>
+      <s:sku>GS-WP142484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041294</id>
+      <title>15&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1307.99</s:price>
+      <s:sku>GS-WP152490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041294</id>
+      <title>15&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1396.99</s:price>
+      <s:sku>GS-WP152496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484002894</id>
+    <published>2017-10-17T15:42:37-03:00</published>
+    <updated>2017-10-17T15:42:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gs-v3db"/>
+    <title>Vanity</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USVanityDrawerBase_36939d57-a164-4c41-8da7-e3292077b7c9.jpg?v=1584664869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            931.99 - 973.99
+            <a href="https://topshelfcabinetscanada.ca/products/gs-v3db">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity 3 drawer base cabinter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002894</id>
+      <title>12&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">931.99</s:price>
+      <s:sku>GS -SVB122134</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002894</id>
+      <title>15&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">973.99</s:price>
+      <s:sku>GS -SVB152134</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484002702</id>
+    <published>2017-10-17T15:42:37-03:00</published>
+    <updated>2017-10-17T15:42:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gs-vsbnd"/>
+    <title>Vanity Sink Base Cabinet</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D1D_8f972213-7974-4951-9c56-552eec91384a.jpg?v=1584664868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            486.99 - 744.99
+            <a href="https://topshelfcabinetscanada.ca/products/gs-vsbnd">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Sink Base Cabinet with 1 door and no drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002702</id>
+      <title>24&quot;Wx21&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">486.99</s:price>
+      <s:sku>GS -S2421B30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002702</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">615.99</s:price>
+      <s:sku>GS -S3021B34</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002702</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">744.99</s:price>
+      <s:sku>GS -S3621B34</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484002574</id>
+    <published>2017-10-17T15:42:37-03:00</published>
+    <updated>2017-10-17T15:42:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gs-vdbbr"/>
+    <title>Vanity</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_f07f9494-d6c4-4110-a64f-6db5f16c2c08.jpg?v=1584664867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            1002.99 - 1366.99
+            <a href="https://topshelfcabinetscanada.ca/products/gs-vdbbr">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Right  and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002574</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1002.99</s:price>
+      <s:sku>GS -VS3621DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002574</id>
+      <title>48&quot;Wx21&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">1366.99</s:price>
+      <s:sku>GS -VS482DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484002446</id>
+    <published>2017-10-17T15:42:37-03:00</published>
+    <updated>2017-10-17T15:42:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gs-vdsbl"/>
+    <title>Vanity</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_04a9d431-eea2-4533-a63b-e2051ec1f28f.jpg?v=1584664866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            1002.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Left and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002446</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1002.99</s:price>
+      <s:sku>GS -VS3621DL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484002318</id>
+    <published>2017-10-17T15:42:37-03:00</published>
+    <updated>2017-10-17T15:42:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gs-vbr"/>
+    <title>Vanity</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_6cc37426-8dcb-4e1e-b18b-441fd90e831f.jpg?v=1584664865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            874.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Right  and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002318</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">874.99</s:price>
+      <s:sku>GS -VS3021DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484002254</id>
+    <published>2017-10-17T15:42:37-03:00</published>
+    <updated>2017-10-17T15:42:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gs-vbl"/>
+    <title>Vanity</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_86be5170-6e07-40d9-9aac-e7e891c5d00c.jpg?v=1584664863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            874.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Left and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002254</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">874.99</s:price>
+      <s:sku>GS -VS3021DL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484002126</id>
+    <published>2017-10-17T15:42:37-03:00</published>
+    <updated>2017-10-17T15:42:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gswcc"/>
+    <title>Wall Cube Cabinet</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Wallcubes_23f5cd00-2111-44fc-b956-2460007fb51b.png?v=1584664861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            295.99 - 401.99
+            <a href="https://topshelfcabinetscanada.ca/products/gswcc">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Cube Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002126</id>
+      <title>24&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">295.99</s:price>
+      <s:sku>GS-WCCB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002126</id>
+      <title>24&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">347.99</s:price>
+      <s:sku>GS-WCCB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484002126</id>
+      <title>24&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">401.99</s:price>
+      <s:sku>GS-WCCB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484001294</id>
+    <published>2017-10-17T15:42:36-03:00</published>
+    <updated>2017-10-17T15:42:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gswff"/>
+    <title>Wall Fluted Base Filler with Square</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillerFluted_48452695-cb91-441e-8570-03dc858adc7a.jpg?v=1584664849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            68.99 - 94.99
+            <a href="https://topshelfcabinetscanada.ca/products/gswff">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Fluted Base Filler with Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484001294</id>
+      <title>3&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">68.99</s:price>
+      <s:sku>GS-A30WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484001294</id>
+      <title>3&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku>GS-A36WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484001294</id>
+      <title>3&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>GS-A42WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+    <published>2017-10-17T15:42:36-03:00</published>
+    <updated>2017-10-17T15:42:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gswfl"/>
+    <title>Wall Filler</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillersWallandTall_bbaf3cbc-05c1-429b-a151-ac08d400a73d.jpg?v=1584664847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            42.99 - 275.99
+            <a href="https://topshelfcabinetscanada.ca/products/gswfl">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Filler</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+      <title>3&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>GS-WF330</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+      <title>3&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">52.99</s:price>
+      <s:sku>GS-WF336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+      <title>3&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku>GS-WF342</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+      <title>3&quot;Wx84&quot;H</title>
+      <s:price currency="CAD">123.99</s:price>
+      <s:sku>GS-WF384</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+      <title>3&quot;Wx96&quot;H</title>
+      <s:price currency="CAD">143.99</s:price>
+      <s:sku>GS-WF396</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+      <title>6&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku>GS-WF630</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+      <title>6&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>GS-WF642</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000974</id>
+      <title>6&quot;Wx96&quot;H</title>
+      <s:price currency="CAD">275.99</s:price>
+      <s:sku>GS-WF696</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11484000206</id>
+    <published>2017-10-17T15:42:36-03:00</published>
+    <updated>2017-10-17T15:42:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gsvlcrvb"/>
+    <title>Valance - Curved</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/VALANCE_189ad3d2-6829-42a8-8a6c-ce6703a28aa4.jpg?v=1584664837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            220.99 - 239.99
+            <a href="https://topshelfcabinetscanada.ca/products/gsvlcrvb">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curved Valance B</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000206</id>
+      <title>5&quot;Lx48&quot;W</title>
+      <s:price currency="CAD">220.99</s:price>
+      <s:sku>GS-VAL48S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11484000206</id>
+      <title>5&quot;Lx54&quot;W</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>GS-VAL54S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483999694</id>
+    <published>2017-10-17T15:42:36-03:00</published>
+    <updated>2017-10-17T15:42:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gswmrwc"/>
+    <title>Wall Microwave Oven Cabinet</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/MRW_f0ba3dbb-9484-4748-9321-cafc601727ff.png?v=1584664831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            316.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Microwave Oven Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483999694</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">316.99</s:price>
+      <s:sku>GS-MWO3018PM-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483999630</id>
+    <published>2017-10-17T15:42:36-03:00</published>
+    <updated>2017-10-17T15:42:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/gswnrk"/>
+    <title>Wine Rack</title>
+    <s:type>Lait Grey Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSWineRack_61b1eb79-11cc-4692-a1f4-33df20c576d1.jpg?v=1584664830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Lait Grey Shaker<br>
+        <strong>Price: </strong>
+            375.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine Rack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483999630</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">375.99</s:price>
+      <s:sku>GS-W3018WR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

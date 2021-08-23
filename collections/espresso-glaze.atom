@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topshelfcabinetscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topshelfcabinetscanada.ca/collections/espresso-glaze.atom"/>
+  <title>Top Shelf Cabinets Canada</title>
+  <updated>2018-10-18T20:08:47-03:00</updated>
+  <author>
+    <name>Top Shelf Cabinets Canada</name>
+  </author>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+    <published>2018-10-18T20:08:47-03:00</published>
+    <updated>2018-10-18T20:08:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egbrgc24"/>
+    <title>24&quot; Deep Wall Bridge Cabinets</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS24_DBridgeC_6b623d62-c092-4097-99a8-cde9b02a3383.jpg?v=1584666906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            307.99 - 415.99
+            <a href="https://topshelfcabinetscanada.ca/products/egbrgc24">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24" Deep Wall Bridge Cabinet with 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>36&quot;Wx24&quot;Dx12&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>egb361224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>30&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">307.99</s:price>
+      <s:sku>egb361524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>33&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">336.99</s:price>
+      <s:sku>egb332415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>36&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">337.99</s:price>
+      <s:sku>egb362415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>30&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">392.99</s:price>
+      <s:sku>egb302418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>33&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">395.99</s:price>
+      <s:sku>egb332418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>36&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku>egb362418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>30&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">366.99</s:price>
+      <s:sku>egb302424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471633469</id>
+      <title>36&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">415.99</s:price>
+      <s:sku>egb362424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+    <published>2018-10-17T22:01:22-03:00</published>
+    <updated>2018-10-17T22:01:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egbrgc12"/>
+    <title>12&quot; Wall Bridge Cabinets</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/12_bridge_57e779c6-4a28-4d5c-9f57-bd28ccd16d53.jpg?v=1584666900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            216.99 - 355.99
+            <a href="https://topshelfcabinetscanada.ca/products/egbrgc12">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" Deep Wall Bridge Cabinet with 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+      <title>24&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">216.99</s:price>
+      <s:sku>egb241218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">248.99</s:price>
+      <s:sku>egb301218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+      <title>33&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">265.99</s:price>
+      <s:sku>egb331228</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+      <title>36&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">282.99</s:price>
+      <s:sku>egb361218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+      <title>24&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">275.99</s:price>
+      <s:sku>egb41224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+      <title>30&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>egb31224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+      <title>33&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">333.99</s:price>
+      <s:sku>egb331224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094525501</id>
+      <title>36&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">355.99</s:price>
+      <s:sku>egb361224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340316680253</id>
+    <published>2018-07-21T05:33:04-03:00</published>
+    <updated>2018-07-21T05:33:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/esgbtml"/>
+    <title>Batten Molding</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Batten_M_a96268c9-ef9f-4255-9124-9672f4535b22.png?v=1584666889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340316680253</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>ESGL-BTM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340307374141</id>
+    <published>2018-07-21T05:14:44-03:00</published>
+    <updated>2018-07-21T05:14:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/esgshml"/>
+    <title>Shoe Molding</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Shoe_Moulding_47c41a66-3d7a-467c-b68e-891b5401e8c1.jpg?v=1584666876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340307374141</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">61.99</s:price>
+      <s:sku>ESGL-SHM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/730573504573</id>
+    <published>2018-05-09T10:05:10-03:00</published>
+    <updated>2018-05-09T10:05:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egfbkp"/>
+    <title>Finished Back Panel</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/48-96_ff069b93-a5f3-4a23-b711-76496605bd5c.png?v=1584666645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            329.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finished Back Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573504573</id>
+      <title>1/4&quot;Dx48&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">329.99</s:price>
+      <s:sku>EG-F489614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/459581882406</id>
+    <published>2018-01-06T12:00:01-04:00</published>
+    <updated>2018-01-06T12:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egspldr1"/>
+    <title>Espresso Glaze Sample Door</title>
+    <s:type>Espresso Glaze Sample Door</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/eg2.jpg?v=1584665675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze Sample Door<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE Shipping on All Sample Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/459581882406</id>
+      <title>11&quot;Wx3/4&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>EG-SD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483654158</id>
+    <published>2017-12-12T03:08:48-04:00</published>
+    <updated>2017-12-12T03:08:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/eggdm"/>
+    <title>Glass Doors</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS36_SpecialTrueDividedLites_c3dc74cf-293f-4ecf-99aa-b640006f4846.jpg?v=1584664497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            167.99 - 450.99
+            <a href="https://topshelfcabinetscanada.ca/products/eggdm">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glass Doors for Wall Cabinets with Mullion, Frosted Glass</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654158</id>
+      <title>30&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">321.99</s:price>
+      <s:sku>EG-W3030BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654158</id>
+      <title>24&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">167.99</s:price>
+      <s:sku>EG-WDC2430MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654158</id>
+      <title>30&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">366.99</s:price>
+      <s:sku>EG-W3036BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654158</id>
+      <title>24&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">204.99</s:price>
+      <s:sku>EG-WDC2436MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654158</id>
+      <title>30&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">450.99</s:price>
+      <s:sku>EG-W3042BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654158</id>
+      <title>27&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>EG-WDC2442MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483655310</id>
+    <published>2017-10-24T00:13:32-03:00</published>
+    <updated>2017-10-24T00:13:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egocnrm"/>
+    <title>Outside Corner Molding</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingOutside_164a351a-ed8d-499f-a0db-44de6d71249e.jpg?v=1584664511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Outside Corner Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483655310</id>
+      <title>3/4&quot;Wx3/4&quot;Dx96&quot;L</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>EG-SC5)CM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483655822</id>
+    <published>2017-10-24T00:13:13-03:00</published>
+    <updated>2017-10-24T00:13:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/eglrmd"/>
+    <title>Light Rail Molding Detailed</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMLightRailTLRM8_35f1d315-eddc-498f-a82d-16dd651555ed.jpg?v=1584664519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            387.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Rail Molding Detailed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483655822</id>
+      <title>1.5&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">387.99</s:price>
+      <s:sku>EG-TLRM8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483655694</id>
+    <published>2017-10-24T00:13:13-03:00</published>
+    <updated>2017-10-24T00:13:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/eglrm"/>
+    <title>Light Rail Molding</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLightRailM_1e971534-d675-44df-9b59-142e3bb9a99c.jpg?v=1584664518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Rail Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483655694</id>
+      <title>1.5&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>EG-LRM8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483654094</id>
+    <published>2017-10-24T00:13:13-03:00</published>
+    <updated>2017-10-24T00:13:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egopes"/>
+    <title>Open End Wall Cabinet</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSOpenEnd_a7ce6520-4b78-4309-a228-98b3d1041c8e.jpg?v=1584664496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            166.99 - 239.99
+            <a href="https://topshelfcabinetscanada.ca/products/egopes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Open End Wall Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654094</id>
+      <title>5&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">166.99</s:price>
+      <s:sku>EG-OE530</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654094</id>
+      <title>5&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">204.99</s:price>
+      <s:sku>EG-OE536</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654094</id>
+      <title>5&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>EG-OE542</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483655246</id>
+    <published>2017-10-24T00:12:52-03:00</published>
+    <updated>2017-10-24T00:12:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egicrm"/>
+    <title>Inside Corner Molding</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingInside_4ef8fdf5-36bf-4a27-80b3-963bb668b27d.jpg?v=1584664510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside Corner Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483655246</id>
+      <title>3/&quot;Wx3/4&quot;Dx96&quot;L</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>EG-SC4ICM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483656270</id>
+    <published>2017-10-24T00:12:30-03:00</published>
+    <updated>2017-10-24T00:12:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egbff"/>
+    <title>Fluted Base Filler with Square</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillerFluted_506ed402-75e1-4339-9746-4085bdaa9b98.jpg?v=1584664526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            93.99 - 190.99
+            <a href="https://topshelfcabinetscanada.ca/products/egbff">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fluted Base Filler with Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483656270</id>
+      <title>3&quot;Wx34.5&quot;H</title>
+      <s:price currency="CAD">93.99</s:price>
+      <s:sku>EG-BFFL3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483656270</id>
+      <title>6&quot;Wx34/5&quot;H</title>
+      <s:price currency="CAD">190.99</s:price>
+      <s:sku>EG-BFFL6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483654734</id>
+    <published>2017-10-24T00:12:07-03:00</published>
+    <updated>2017-10-24T00:12:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egdswp"/>
+    <title>Dishwasher End Panel</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSPanelDishEnd_5ebbe234-3d8c-44ff-8b95-40ab6b560918.jpg?v=1584664503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            151.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dishwasher End Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654734</id>
+      <title>3&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">151.99</s:price>
+      <s:sku>EG-DWR33412</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483656334</id>
+    <published>2017-10-24T00:11:35-03:00</published>
+    <updated>2017-10-24T00:11:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egdltp3"/>
+    <title>Decorative LEG with filler</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMDecorLegTP3_ffe4f739-8873-4f14-921e-d93f8c165b9b.jpg?v=1584664527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            387.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decorative LEG with filler</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483656334</id>
+      <title>3Wx34.5&quot;H</title>
+      <s:price currency="CAD">387.99</s:price>
+      <s:sku>EG-TP3/WF34</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483651918</id>
+    <published>2017-10-24T00:08:12-03:00</published>
+    <updated>2017-10-24T00:08:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/eg30w2d"/>
+    <title>30&quot; Wall Cabinets</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/w2D_616146e4-7745-457c-bc0a-410a6100a990.jpg?v=1584664469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            311.99 - 402.99
+            <a href="https://topshelfcabinetscanada.ca/products/eg30w2d">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>30" Wall Cabinet 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483651918</id>
+      <title>24&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>EGB2430</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483651918</id>
+      <title>27&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">337.99</s:price>
+      <s:sku>EGB2730</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483651918</id>
+      <title>30&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">354.99</s:price>
+      <s:sku>EGB3030</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483651918</id>
+      <title>33&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">375.99</s:price>
+      <s:sku>EGB3330</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483651918</id>
+      <title>36&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">402.99</s:price>
+      <s:sku>EGB3630</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483653646</id>
+    <published>2017-10-23T23:47:14-03:00</published>
+    <updated>2017-10-23T23:47:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egezr"/>
+    <title>Easy Reach Base Cabinet</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseEasyReach_da069f36-b4f2-4de2-8ff7-b5b633edb459.jpg?v=1584664490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            761.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy Reach Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483653646</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">761.99</s:price>
+      <s:sku>EG-BLS3612S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483653518</id>
+    <published>2017-10-23T23:47:13-03:00</published>
+    <updated>2017-10-23T23:47:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egblz"/>
+    <title>Lazy Susan Cabinet</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLazySusan_f5630411-da4c-49b5-adaa-9f1af07f5f10.jpg?v=1584664488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            809.99 - 874.99
+            <a href="https://topshelfcabinetscanada.ca/products/egblz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lazy Susan Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483653518</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">809.99</s:price>
+      <s:sku>EG-BLS3309</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483653518</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">874.99</s:price>
+      <s:sku>EG-BLS3612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483653710</id>
+    <published>2017-10-23T23:46:50-03:00</published>
+    <updated>2017-10-23T23:46:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egblb"/>
+    <title>Blind Base Cabinets 1 door and 1 drawer</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BlindBases_3b0612e6-0b98-4616-82e8-ee61c878d707.jpg?v=1584664491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            613.99 - 625.99
+            <a href="https://topshelfcabinetscanada.ca/products/egblb">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blind Base Cabinets 1 door and 1 drawer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483653710</id>
+      <title>24&quot;Dx34&quot;H x 39-42&quot;W</title>
+      <s:price currency="CAD">613.99</s:price>
+      <s:sku>EG-BLEG-B39/42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483653710</id>
+      <title>24&quot;Dx34&quot;H x 42-445&quot;W</title>
+      <s:price currency="CAD">622.99</s:price>
+      <s:sku>EG-BLEG-B42/45</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483653710</id>
+      <title>24&quot;Dx34&quot;H x 45-48&quot;W</title>
+      <s:price currency="CAD">625.99</s:price>
+      <s:sku>EG-BLEG-B45/48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483653454</id>
+    <published>2017-10-23T23:46:50-03:00</published>
+    <updated>2017-10-23T23:46:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egbdcf-fl"/>
+    <title>Base Diagonal Corner Cabinet Front, toe kick and floor only</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/DSB_Front_f17c4228-9324-436e-82cb-dcb320eeba6b.jpg?v=1584664487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            247.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet Front, toe kick and floor only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483653454</id>
+      <title>14&quot;Wx36&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">247.99</s:price>
+      <s:sku>EG-BDCF36FFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483653390</id>
+    <published>2017-10-23T23:46:49-03:00</published>
+    <updated>2017-10-23T23:46:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egbdc"/>
+    <title>Base Diagonal Corner Cabinet</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseCornerSink_2fde0b03-f887-4e39-bdd9-e31ae6d799b1.jpg?v=1584664486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            815.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483653390</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">815.99</s:price>
+      <s:sku>EG-BDCF36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486040654</id>
+    <published>2017-10-17T21:43:38-03:00</published>
+    <updated>2017-10-17T21:43:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/eg4dptry"/>
+    <title>Pantry Cabinet 4 Door</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/US4DPantry_e672c03d-631f-4932-889f-91259f8871cb.jpg?v=1584665238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            1263.99 - 1457.99
+            <a href="https://topshelfcabinetscanada.ca/products/eg4dptry">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four Door Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040654</id>
+      <title>24&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1263.99</s:price>
+      <s:sku>EG-WP242484B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040654</id>
+      <title>24&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1356.99</s:price>
+      <s:sku>EG-WP242490B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040654</id>
+      <title>24&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1457.99</s:price>
+      <s:sku>EG-WP242496B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486040526</id>
+    <published>2017-10-17T21:43:38-03:00</published>
+    <updated>2017-10-17T21:43:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/eg2dptry"/>
+    <title>Pantry Cabinet 2 Door</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Pantry_95083be6-9f21-4557-b0f5-abd0750e0a40.jpg?v=1584665236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            944.99 - 1157.99
+            <a href="https://topshelfcabinetscanada.ca/products/eg2dptry">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Door Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040526</id>
+      <title>18&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1011.99</s:price>
+      <s:sku>EG-WP182484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040526</id>
+      <title>18&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1084.99</s:price>
+      <s:sku>EG-WP182490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040526</id>
+      <title>18&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1157.99</s:price>
+      <s:sku>EG-WP182496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040526</id>
+      <title>15&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">944.99</s:price>
+      <s:sku>EG-WP152496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040526</id>
+      <title>15&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1015.99</s:price>
+      <s:sku>EG-WP152496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040526</id>
+      <title>15&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1084.99</s:price>
+      <s:sku>EG-WP152496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483654286</id>
+    <published>2017-10-17T14:30:14-03:00</published>
+    <updated>2017-10-17T14:30:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egwnrk"/>
+    <title>Wine Rack</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSWineRack_e40580ca-0609-4c7b-b49e-d2cbbe3fc021.jpg?v=1584664498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            368.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine Rack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654286</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">368.99</s:price>
+      <s:sku>EG-W3018EG-WR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483654350</id>
+    <published>2017-10-17T14:29:58-03:00</published>
+    <updated>2017-10-17T14:29:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/egwmrwc"/>
+    <title>Wall Microwave Oven Cabinet</title>
+    <s:type>Espresso Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/MRW_f2b60076-0694-4772-a696-9420fd2ab19d.png?v=1584664499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Espresso Glaze<br>
+        <strong>Price: </strong>
+            311.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Microwave Oven Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483654350</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>EG-MWO3018PM-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

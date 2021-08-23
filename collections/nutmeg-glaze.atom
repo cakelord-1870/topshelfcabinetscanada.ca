@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topshelfcabinetscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topshelfcabinetscanada.ca/collections/nutmeg-glaze.atom"/>
+  <title>Top Shelf Cabinets Canada</title>
+  <updated>2018-10-18T20:08:57-03:00</updated>
+  <author>
+    <name>Top Shelf Cabinets Canada</name>
+  </author>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+    <published>2018-10-18T20:08:57-03:00</published>
+    <updated>2018-10-18T20:08:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngbrgc24"/>
+    <title>24&quot; Deep Wall Bridge Cabinets</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS24_DBridgeC_2bf13135-9d08-4485-9109-924b2437225b.jpg?v=1584666908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            307.99 - 415.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngbrgc24">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24" Deep Wall Bridge Cabinet with 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>36&quot;Wx24&quot;Dx12&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>ngb361224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>30&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">307.99</s:price>
+      <s:sku>ngb361524</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>33&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">336.99</s:price>
+      <s:sku>ngb332415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>36&quot;Wx24&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">337.99</s:price>
+      <s:sku>ngb362415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>30&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">392.99</s:price>
+      <s:sku>ngb302418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>33&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">395.99</s:price>
+      <s:sku>ngb332418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>36&quot;Wx24&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku>ngb362418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>30&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">366.99</s:price>
+      <s:sku>ngb302424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1541471961149</id>
+      <title>36&quot;Wx24&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">415.99</s:price>
+      <s:sku>ngb362424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+    <published>2018-10-17T22:01:18-03:00</published>
+    <updated>2018-10-17T22:01:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngbrgc12"/>
+    <title>12&quot; Wall Bridge Cabinets</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/12_bridge_98aee7c0-7e5f-4454-b9dc-44a4e64406f5.jpg?v=1584666899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            216.99 - 355.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngbrgc12">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12" Deep Wall Bridge Cabinet with 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+      <title>24&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">216.99</s:price>
+      <s:sku>NGB241218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">248.99</s:price>
+      <s:sku>NGB301218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+      <title>33&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">265.99</s:price>
+      <s:sku>NGB331228</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+      <title>36&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">282.99</s:price>
+      <s:sku>NGB361218</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+      <title>24&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">275.99</s:price>
+      <s:sku>NGR241224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+      <title>30&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>NGB31224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+      <title>33&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">333.99</s:price>
+      <s:sku>NGB331224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1540094492733</id>
+      <title>36&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">355.99</s:price>
+      <s:sku>NGB361224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340316713021</id>
+    <published>2018-07-21T05:33:05-03:00</published>
+    <updated>2018-07-21T05:33:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/nglbtml"/>
+    <title>Batten Molding</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Batten_M_9b041442-b214-4463-a7dc-741c4bb74198.png?v=1584666890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340316713021</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>NGL-BTM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1340307406909</id>
+    <published>2018-07-21T05:14:44-03:00</published>
+    <updated>2018-07-21T05:14:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/nglshml"/>
+    <title>Shoe Molding</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Shoe_Moulding_50093d8f-014f-4542-8d0c-af487ebbe41f.jpg?v=1584666877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1340307406909</id>
+      <title>96&quot;Wx3/4&quot;Hx1/2&quot;D</title>
+      <s:price currency="CAD">61.99</s:price>
+      <s:sku>NGL-SHM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/730573471805</id>
+    <published>2018-05-09T10:05:09-03:00</published>
+    <updated>2018-05-09T10:05:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngfbkp"/>
+    <title>Finished Back Panel</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/48-36_ad936178-57ee-48b4-8999-eb123ef3d18c.png?v=1584666643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            173.99 - 316.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngfbkp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finished Back Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573471805</id>
+      <title>1/4&quot;Dx48&quot;Wx36&quot;L</title>
+      <s:price currency="CAD">173.99</s:price>
+      <s:sku>NG-F483614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573471805</id>
+      <title>1/4&quot;Dx36&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>NG-F963614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573471805</id>
+      <title>1/4&quot;Dx48&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">316.99</s:price>
+      <s:sku>NG-F964814(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/459581456422</id>
+    <published>2018-01-06T11:59:56-04:00</published>
+    <updated>2018-01-06T11:59:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngspldr1"/>
+    <title>Nutmeg Glaze Sample Door</title>
+    <s:type>Nutmeg Glaze Sample Door</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/6105183_orig.jpg?v=1584665668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze Sample Door<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE Shipping on All Sample Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/459581456422</id>
+      <title>11&quot;Wx3/4&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>NG-SD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483649294</id>
+    <published>2017-10-24T00:07:20-03:00</published>
+    <updated>2017-10-24T00:07:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngocnrm"/>
+    <title>Outside Corner Molding</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingOutside_5e7c2997-5678-43a7-93b9-28bbc329550d.jpg?v=1584664433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Outside Corner Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483649294</id>
+      <title>3/4&quot;Wx3/4&quot;Dx96&quot;L</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>NG-SC5)CM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483645902</id>
+    <published>2017-10-24T00:07:19-03:00</published>
+    <updated>2017-10-24T00:07:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngblwcc"/>
+    <title>Wall Blind Corner Cabinet</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Blind_Wall_3cabd004-cf52-4124-b923-d8dcc3215a3c.png?v=1584664394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            501.99 - 762.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngblwcc">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Blind Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483645902</id>
+      <title>30/33&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">501.99</s:price>
+      <s:sku>NG-BLCC30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483645902</id>
+      <title>30/33&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">666.99</s:price>
+      <s:sku>NG-BLCC36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483645902</id>
+      <title>30/33&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">762.99</s:price>
+      <s:sku>NG-BLCC42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483645902</id>
+      <title>39/42&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">551.99</s:price>
+      <s:sku>NG-BLCC3930</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483645902</id>
+      <title>39/42&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">523.99</s:price>
+      <s:sku>NG-BLCC3936</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483645902</id>
+      <title>39/42&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">551.99</s:price>
+      <s:sku>NG-BLCC3942</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483650638</id>
+    <published>2017-10-24T00:07:06-03:00</published>
+    <updated>2017-10-24T00:07:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngdslng52"/>
+    <title>Decorative LEG</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/52_e9b24d05-a2a3-45ab-bc12-29fdc7c397b2.png?v=1584664454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small Decorative LEG</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483650638</id>
+      <title>5&quot;H</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>NG-LNG52</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483650574</id>
+    <published>2017-10-24T00:07:06-03:00</published>
+    <updated>2017-10-24T00:07:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngdslng51"/>
+    <title>Decorative LEG</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/51.png?v=1584664453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small Decorative LEG</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483650574</id>
+      <title>5&quot;H</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>NG-LNG51</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483650382</id>
+    <published>2017-10-24T00:07:05-03:00</published>
+    <updated>2017-10-24T00:07:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngdltp3"/>
+    <title>Decorative Leg with filler</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMDecorLegTP3_5ae63033-9ef0-4cc0-8b15-045a4dc7b90a.jpg?v=1584664449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            387.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decorative LEG with filler</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483650382</id>
+      <title>3Wx34.5&quot;H</title>
+      <s:price currency="CAD">387.99</s:price>
+      <s:sku>NG-TP3/WF34</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483650318</id>
+    <published>2017-10-24T00:07:05-03:00</published>
+    <updated>2017-10-24T00:07:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngbff"/>
+    <title>Fluted Base Filler with Square</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillerFluted_2509710d-2c9b-43cd-a0dc-5e2e544910d6.jpg?v=1584664448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            93.99 - 190.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngbff">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fluted Base Filler with Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483650318</id>
+      <title>3&quot;Wx34.5&quot;H</title>
+      <s:price currency="CAD">93.99</s:price>
+      <s:sku>NG-BFFL3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483650318</id>
+      <title>6&quot;Wx34/5&quot;H</title>
+      <s:price currency="CAD">190.99</s:price>
+      <s:sku>NG-BFFL6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483649870</id>
+    <published>2017-10-24T00:07:05-03:00</published>
+    <updated>2017-10-24T00:07:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/nglrmd"/>
+    <title>Light Rail Molding Detailed</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMLightRailTLRM8_90e4dd29-b1ef-4361-81f2-cd5b96880084.jpg?v=1584664440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            387.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Rail Molding Detailed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483649870</id>
+      <title>1.5&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">387.99</s:price>
+      <s:sku>NG-TLRM8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483649742</id>
+    <published>2017-10-24T00:07:05-03:00</published>
+    <updated>2017-10-24T00:07:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/nglrm"/>
+    <title>Light Rail Molding</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLightRailM_31584617-a1d3-4f50-b651-601f6bf8685a.jpg?v=1584664439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light Rail Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483649742</id>
+      <title>1.5&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>NG-LRM8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483649230</id>
+    <published>2017-10-24T00:07:04-03:00</published>
+    <updated>2017-10-24T00:07:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngicrm"/>
+    <title>Inside Corner Molding</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingInside_e6e79067-0581-4e19-94ad-3beaa5964bb0.jpg?v=1584664432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside Corner Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483649230</id>
+      <title>3/&quot;Wx3/4&quot;Dx96&quot;L</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>NG-SC4ICM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483648014</id>
+    <published>2017-10-24T00:07:04-03:00</published>
+    <updated>2017-10-24T00:07:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngdswp"/>
+    <title>Dishwasher End Panel</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSPanelDishEnd_a3ea0ad7-40c3-4932-b8d0-15c355748e8c.jpg?v=1584664418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            151.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dishwasher End Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483648014</id>
+      <title>3&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">151.99</s:price>
+      <s:sku>NG-DWR33412</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483647310</id>
+    <published>2017-10-24T00:07:03-03:00</published>
+    <updated>2017-10-24T00:07:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/nggdm"/>
+    <title>Glass Doors</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS36_SpecialTrueDividedLites_57098807-5bf3-4752-9678-acdd7f7a46ed.jpg?v=1584664414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            167.99 - 450.99
+            <a href="https://topshelfcabinetscanada.ca/products/nggdm">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glass Doors for Wall Cabinets with Mullion, Frosted Glass</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647310</id>
+      <title>30&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">321.99</s:price>
+      <s:sku>NG-W3030BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647310</id>
+      <title>24&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">167.99</s:price>
+      <s:sku>NG-WDC2430MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647310</id>
+      <title>30&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">366.99</s:price>
+      <s:sku>NG-W3036BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647310</id>
+      <title>24&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">204.99</s:price>
+      <s:sku>NG-WDC2436MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647310</id>
+      <title>30&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">450.99</s:price>
+      <s:sku>NG-W3042BMGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647310</id>
+      <title>27&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>NG-WDC2442MGD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483647246</id>
+    <published>2017-10-24T00:07:03-03:00</published>
+    <updated>2017-10-24T00:07:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngopes"/>
+    <title>Open End Wall Cabinet</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSOpenEnd.jpg?v=1584664412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            166.99 - 239.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngopes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Open End Wall Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647246</id>
+      <title>5&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">166.99</s:price>
+      <s:sku>NG-OE530</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647246</id>
+      <title>5&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">204.99</s:price>
+      <s:sku>NG-OE536</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647246</id>
+      <title>5&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>NG-OE542</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483647054</id>
+    <published>2017-10-24T00:07:03-03:00</published>
+    <updated>2017-10-24T00:07:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngawe"/>
+    <title>Angle Wall End Cabinet</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Wall_Angle_Cabinet-1_337f3c1b-7657-4369-b8a4-6c5b23e3956d.jpg?v=1584664410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            321.99 - 450.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngawe">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angle Wall End Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647054</id>
+      <title>24Wx24&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">321.99</s:price>
+      <s:sku>NG-WUW-AE30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647054</id>
+      <title>24Wx24&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">387.99</s:price>
+      <s:sku>NG-WUW-AE36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483647054</id>
+      <title>24Wx24&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">450.99</s:price>
+      <s:sku>NG-WUW-AE42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483646926</id>
+    <published>2017-10-24T00:07:02-03:00</published>
+    <updated>2017-10-24T00:07:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngblb"/>
+    <title>Blind Base Cabinets 1 door and 1 drawer</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BlindBases.jpg?v=1584664407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            613.99 - 625.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngblb">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blind Base Cabinets 1 door and 1 drawer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483646926</id>
+      <title>24&quot;Dx34&quot;H x 39-42&quot;W</title>
+      <s:price currency="CAD">613.99</s:price>
+      <s:sku>NG-BLNG-B39/42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483646926</id>
+      <title>24&quot;Dx34&quot;H x 42-445&quot;W</title>
+      <s:price currency="CAD">622.99</s:price>
+      <s:sku>NG-BLNG-B42/45</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483646926</id>
+      <title>24&quot;Dx34&quot;H x 45-48&quot;W</title>
+      <s:price currency="CAD">625.99</s:price>
+      <s:sku>NG-BLNG-B45/48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483646862</id>
+    <published>2017-10-23T23:47:13-03:00</published>
+    <updated>2017-10-23T23:47:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngezr"/>
+    <title>Easy Reach Base Cabinet</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseEasyReach.jpg?v=1584664406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            761.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy Reach Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483646862</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">761.99</s:price>
+      <s:sku>NG-BLS3612S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483646734</id>
+    <published>2017-10-23T23:47:13-03:00</published>
+    <updated>2017-10-23T23:47:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngblz"/>
+    <title>Lazy Susan Cabinet</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLazySusan.jpg?v=1584664405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            809.99 - 874.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngblz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lazy Susan Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483646734</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">809.99</s:price>
+      <s:sku>NG-BLS3309</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483646734</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">874.99</s:price>
+      <s:sku>NG-BLS3612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483646670</id>
+    <published>2017-10-23T23:46:49-03:00</published>
+    <updated>2017-10-23T23:46:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngbdcf-fl"/>
+    <title>Base Diagonal Corner Cabinet Front, toe kick and floor only</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/DSB_Front.jpg?v=1584664404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            247.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet Front, toe kick and floor only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483646670</id>
+      <title>14&quot;Wx36&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">247.99</s:price>
+      <s:sku>NG-BDCF36FFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483646606</id>
+    <published>2017-10-23T23:46:49-03:00</published>
+    <updated>2017-10-23T23:46:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngbdc"/>
+    <title>Base Diagonal Corner Cabinet</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseCornerSink_0b8a970f-25d1-438b-85f1-bb9cbda596f2.jpg?v=1584664403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            815.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483646606</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">815.99</s:price>
+      <s:sku>NG-BDCF36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486040462</id>
+    <published>2017-10-17T21:43:38-03:00</published>
+    <updated>2017-10-17T21:43:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ngw4dptry"/>
+    <title>Pantry Cabinet 4 Door</title>
+    <s:type>Nutmeg Glaze</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/US4DPantry_fc79b347-5129-4ca8-a6d4-b4ec8a920da5.jpg?v=1584665235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Nutmeg Glaze<br>
+        <strong>Price: </strong>
+            1263.99 - 1457.99
+            <a href="https://topshelfcabinetscanada.ca/products/ngw4dptry">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four Door Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040462</id>
+      <title>24&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1263.99</s:price>
+      <s:sku>NG-WP242484B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040462</id>
+      <title>24&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1356.99</s:price>
+      <s:sku>NG-WP242490B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040462</id>
+      <title>24&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1457.99</s:price>
+      <s:sku>NG-WP242496B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

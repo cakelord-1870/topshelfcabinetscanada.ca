@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topshelfcabinetscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topshelfcabinetscanada.ca/collections/mocha-shaker.atom"/>
+  <title>Top Shelf Cabinets Canada</title>
+  <updated>2018-07-19T19:18:42-03:00</updated>
+  <author>
+    <name>Top Shelf Cabinets Canada</name>
+  </author>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/970678861885</id>
+    <published>2018-07-19T19:18:42-03:00</published>
+    <updated>2018-07-19T19:18:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msfsb"/>
+    <title>Farmhouse Sink Base Cabinet</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Farmhouse_Sink_Base_c142cb9e-7ad9-4cae-a11d-e0ee7ea6b7ca.png?v=1584666863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            898.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Farmhouse Sink Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/970678861885</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">898.99</s:price>
+      <s:sku>MS-FSB36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/730573570109</id>
+    <published>2018-05-09T10:05:13-03:00</published>
+    <updated>2018-05-09T10:05:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msfbkp"/>
+    <title>Finished Back Panel</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/48-36_96adc761-e7e9-4741-9b09-dad93cde9f1d.png?v=1584666647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            173.99 - 316.99
+            <a href="https://topshelfcabinetscanada.ca/products/msfbkp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finished Back Panel Panelling</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573570109</id>
+      <title>1/4&quot;Dx48&quot;Wx36&quot;L</title>
+      <s:price currency="CAD">173.99</s:price>
+      <s:sku>MS-F483614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573570109</id>
+      <title>1/4&quot;Dx36&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>MS-F963614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573570109</id>
+      <title>1/4&quot;Dx48&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">316.99</s:price>
+      <s:sku>MS-F964814(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/459581521958</id>
+    <published>2018-01-06T11:59:57-04:00</published>
+    <updated>2018-01-06T11:59:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msspldr1"/>
+    <title>Mocha Shaker Sample Door</title>
+    <s:type>Mocha Shaker Sample Door</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/ms2.jpg?v=1584665670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker Sample Door<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE Shipping on All Sample Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/459581521958</id>
+      <title>11&quot;Wx3/4&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>MS-SD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483984334</id>
+    <published>2017-10-23T23:47:14-03:00</published>
+    <updated>2017-10-23T23:47:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msezr"/>
+    <title>Easy Reach Base Cabinet</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseEasyReach_e3d9f9cb-0fd5-4612-ace1-04fcc59a923d.jpg?v=1584664660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            962.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy reach Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483984334</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">962.99</s:price>
+      <s:sku>MS-BLS3612S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483984270</id>
+    <published>2017-10-23T23:47:14-03:00</published>
+    <updated>2017-10-23T23:47:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msblz"/>
+    <title>Lazy Susan Cabinet</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USLazySusan_94ef91aa-ce79-4750-afb5-55bb13e88004.jpg?v=1584664659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            1011.99 - 1090.99
+            <a href="https://topshelfcabinetscanada.ca/products/msblz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lazy Susan Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483984270</id>
+      <title>33&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1011.99</s:price>
+      <s:sku>MS-BLS3309</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483984270</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1090.99</s:price>
+      <s:sku>MS-BLS3612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483984398</id>
+    <published>2017-10-23T23:46:51-03:00</published>
+    <updated>2017-10-23T23:46:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msblb"/>
+    <title>Blind Base Cabinet</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BlindBases_f95b14d7-ac1f-4870-8231-5216eaa1cfed.jpg?v=1584664661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            780.99 - 799.99
+            <a href="https://topshelfcabinetscanada.ca/products/msblb">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blind Base Cabinets 1 door and 1 drawer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483984398</id>
+      <title>24&quot;Dx34&quot;H x 39-42&quot;W</title>
+      <s:price currency="CAD">780.99</s:price>
+      <s:sku>MS-BLB39/42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483984398</id>
+      <title>24&quot;Dx34&quot;H x 42-45&quot;W</title>
+      <s:price currency="CAD">791.99</s:price>
+      <s:sku>MS-BLB42/45</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483984398</id>
+      <title>24&quot;Dx34&quot;H x 45-48&quot;W</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>MS-BLB45/48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483984142</id>
+    <published>2017-10-23T23:46:51-03:00</published>
+    <updated>2017-10-23T23:46:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msbdcf-fl"/>
+    <title>Base Diagonal Corner Cabinet Front, toe kick and floor only</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/DSB_Front_7790d0dc-d0d9-4f2e-a797-ebccf6627c04.jpg?v=1584664657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            307.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet Front, toe kick and floor only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483984142</id>
+      <title>14&quot;Wx36&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">307.99</s:price>
+      <s:sku>MS-BDCF36FFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483984014</id>
+    <published>2017-10-23T23:46:50-03:00</published>
+    <updated>2017-10-23T23:46:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msbdc"/>
+    <title>Base Diagonal Corner Cabinet</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSBaseCornerSink_93cdadf4-de21-4a94-9e2d-7e8881bb0708.jpg?v=1584664656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            1018.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base Diagonal Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483984014</id>
+      <title>36&quot;Wx24&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1018.99</s:price>
+      <s:sku>MS-BDCF36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486041038</id>
+    <published>2017-10-17T21:43:38-03:00</published>
+    <updated>2017-10-17T21:43:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msw4dptry"/>
+    <title>Pantry Cabinet 4 Doors</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/US4DPantry_40f96112-0419-4655-9f5d-1a35d8da9af2.jpg?v=1584665243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            1576.99 - 1814.99
+            <a href="https://topshelfcabinetscanada.ca/products/msw4dptry">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fours Doors Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041038</id>
+      <title>24&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1576.99</s:price>
+      <s:sku>MS-WP242484B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041038</id>
+      <title>24&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1694.99</s:price>
+      <s:sku>MS-WP242490B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486041038</id>
+      <title>24&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1814.99</s:price>
+      <s:sku>MS-WP242496B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11486040974</id>
+    <published>2017-10-17T21:43:38-03:00</published>
+    <updated>2017-10-17T21:43:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/ms2dptry"/>
+    <title>Pantry Cabinet 2 Doors</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Pantry_f7f7852e-baf9-4671-82f5-141a4f5c6b04.jpg?v=1584665241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            1179.99 - 1444.99
+            <a href="https://topshelfcabinetscanada.ca/products/ms2dptry">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two Door Pantry Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040974</id>
+      <title>18&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1257.99</s:price>
+      <s:sku>MS-WP182484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040974</id>
+      <title>18&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1354.99</s:price>
+      <s:sku>MS-WP182490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040974</id>
+      <title>18&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1179.99</s:price>
+      <s:sku>MS-WP182496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040974</id>
+      <title>15&quot;Wx24&quot;Dx84&quot;H</title>
+      <s:price currency="CAD">1263.99</s:price>
+      <s:sku>MS-WP142484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040974</id>
+      <title>15&quot;Wx24&quot;Dx90&quot;H</title>
+      <s:price currency="CAD">1350.99</s:price>
+      <s:sku>MS-WP152490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11486040974</id>
+      <title>15&quot;Wx24&quot;Dx96&quot;H</title>
+      <s:price currency="CAD">1444.99</s:price>
+      <s:sku>MS-WP152496</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483989262</id>
+    <published>2017-10-17T15:43:33-03:00</published>
+    <updated>2017-10-17T15:43:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msvlcrvb"/>
+    <title>Valance - Curved</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/VALANCE_6071b3c4-48b9-4e60-b9c9-dcecc2bdb311.jpg?v=1584664713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            172.99 - 192.99
+            <a href="https://topshelfcabinetscanada.ca/products/msvlcrvb">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curved Valance B</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483989262</id>
+      <title>5&quot;Lx48&quot;W</title>
+      <s:price currency="CAD">172.99</s:price>
+      <s:sku>MS-VAL48S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483989262</id>
+      <title>5&quot;Lx54&quot;W</title>
+      <s:price currency="CAD">192.99</s:price>
+      <s:sku>MS-VAL54S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483989134</id>
+    <published>2017-10-17T15:43:33-03:00</published>
+    <updated>2017-10-17T15:43:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msvlvad"/>
+    <title>Valance - Recessed Panel</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSValanceArchedRaisedPanel_b90f6eec-89e7-4e0e-9595-25b4e8a15766.jpg?v=1584664711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            223.99 - 357.99
+            <a href="https://topshelfcabinetscanada.ca/products/msvlvad">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Recessed Panel Valance</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483989134</id>
+      <title>12&quot;Lx36&quot;W</title>
+      <s:price currency="CAD">223.99</s:price>
+      <s:sku>MS-VAD3612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483989134</id>
+      <title>12&quot;Lx42&quot;W</title>
+      <s:price currency="CAD">285.99</s:price>
+      <s:sku>MS-VAD4212</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483989134</id>
+      <title>12&quot;Lx48&quot;W</title>
+      <s:price currency="CAD">357.99</s:price>
+      <s:sku>MS-VAD4812</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483989006</id>
+    <published>2017-10-17T15:43:33-03:00</published>
+    <updated>2017-10-17T15:43:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msvlvas"/>
+    <title>Valance - Scalloped</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMvalanceVA48_7c3a16e9-fc31-47ab-9946-8012f453bd43.jpg?v=1584664710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scalloped Valance</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483989006</id>
+      <title>5&quot;Lx48&quot;W</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>MS-VAS48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483988686</id>
+    <published>2017-10-17T15:43:33-03:00</published>
+    <updated>2017-10-17T15:43:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msv3db"/>
+    <title>Vanity</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USVanityDrawerBase_8bacde1e-c859-454b-8f06-f227df0d24c1.jpg?v=1584664708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            907.99 - 944.99
+            <a href="https://topshelfcabinetscanada.ca/products/msv3db">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity 3 drawer base cabinter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988686</id>
+      <title>12&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">907.99</s:price>
+      <s:sku>MS-SVB122134</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988686</id>
+      <title>15&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">944.99</s:price>
+      <s:sku>MS-SVB152134</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483988622</id>
+    <published>2017-10-17T15:43:33-03:00</published>
+    <updated>2017-10-17T15:43:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msvsbnd"/>
+    <title>Vanity Sink Base Cabinet</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D1D_9ae9ae89-07bf-445b-84b5-2b850b21d50c.jpg?v=1584664707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            471.99 - 718.99
+            <a href="https://topshelfcabinetscanada.ca/products/msvsbnd">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Sink Base Cabinet with 1 door and no drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988622</id>
+      <title>24&quot;Wx21&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">471.99</s:price>
+      <s:sku>MS-S2421B30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988622</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">600.99</s:price>
+      <s:sku>MS-S3021B34</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988622</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">718.99</s:price>
+      <s:sku>MS-S3621B34</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483988558</id>
+    <published>2017-10-17T15:43:33-03:00</published>
+    <updated>2017-10-17T15:43:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msvdbbr"/>
+    <title>Vanity</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_3fe0c294-572b-4da5-b673-57021bb8d244.jpg?v=1584664706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            973.99 - 1312.99
+            <a href="https://topshelfcabinetscanada.ca/products/msvdbbr">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Right  and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988558</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">973.99</s:price>
+      <s:sku>MS-VS3621DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988558</id>
+      <title>48&quot;Wx21&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">1312.99</s:price>
+      <s:sku>MS-VS482DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483988430</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msvdsbl"/>
+    <title>Vanity</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_df562198-0d92-4055-9323-0ee4ed598220.jpg?v=1584664705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            973.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Left and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988430</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">973.99</s:price>
+      <s:sku>MS-VS3621DL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483988366</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msvbr"/>
+    <title>Vanity</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_6897ee88-6def-4fe6-ac24-35cf1b00f560.jpg?v=1584664704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            854.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Right  and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988366</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">854.99</s:price>
+      <s:sku>MS-VS3021DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483988174</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msvbl"/>
+    <title>Vanity</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_be2dbe72-5739-4cac-a761-4b046a2a2053.jpg?v=1584664702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            854.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Left and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483988174</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">854.99</s:price>
+      <s:sku>MS-VS3021DL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483987982</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/mstrs1b"/>
+    <title>Trash can Drawer</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSTrashCanDrawer_48c1b606-da51-4762-b052-ca31fa6d1202.jpg?v=1584664701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            625.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trash can drawer - 2 Bins</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Items</s:tag>
+    <s:tag>Trash Bins</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483987982</id>
+      <title>21&quot;Wx24&quot;Dx17 1/4&quot;H</title>
+      <s:price currency="CAD">625.99</s:price>
+      <s:sku>MS-TCR21-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483987662</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/msaplq"/>
+    <title>Wood Applique</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMWoodAppliqueDOA_f1b8926a-e51e-4f75-aaf4-843c6df20fb0.jpg?v=1584664698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            395.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood Applique</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483987662</id>
+      <title>10&quot; approx</title>
+      <s:price currency="CAD">395.99</s:price>
+      <s:sku>MS-DOA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483987278</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/mswfl"/>
+    <title>Wall Filler</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillerBase_558e60da-7bd8-4524-8bd8-f5705b0d914f.jpg?v=1584664695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            66.99 - 266.99
+            <a href="https://topshelfcabinetscanada.ca/products/mswfl">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Filler</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483987278</id>
+      <title>3&quot;Wx84&quot;H</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>MS-WF384</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483987278</id>
+      <title>3&quot;Wx96&quot;H</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku>MS-WF396</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483987278</id>
+      <title>6&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku>MS-WF630</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483987278</id>
+      <title>6&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">123.99</s:price>
+      <s:sku>MS-WF642</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483987278</id>
+      <title>6&quot;Wx96&quot;H</title>
+      <s:price currency="CAD">266.99</s:price>
+      <s:sku>MS-WF696</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483987278</id>
+      <title>3&quot;Wx34.5&quot;H</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>MS-BF3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483986638</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/mstk"/>
+    <title>Toe Kick</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingToeKick_28450483-6c19-4b1a-9a88-4fc72f6764b9.jpg?v=1584664686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            93.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toe Kick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483986638</id>
+      <title>4.5&quot;Hx1/4&quot;Dx96&quot;L</title>
+      <s:price currency="CAD">93.99</s:price>
+      <s:sku>MS-TK8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483985742</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/mswmrwc"/>
+    <title>Wall Microwave Oven Cabinet</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/MRW_8f2de5d2-82bb-408b-8098-2c21b7a53b79.png?v=1584664677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            311.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Microwave Oven Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483985742</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">311.99</s:price>
+      <s:sku>MS-MWO3018PM-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483985678</id>
+    <published>2017-10-17T15:43:32-03:00</published>
+    <updated>2017-10-17T15:43:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/mswnrk"/>
+    <title>Wine Rack</title>
+    <s:type>Mocha Shaker</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSWineRack_919ab103-07a9-49b3-8c3f-dd1329de0c92.jpg?v=1584664676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Mocha Shaker<br>
+        <strong>Price: </strong>
+            368.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine Rack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483985678</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">368.99</s:price>
+      <s:sku>MS-W3018WR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

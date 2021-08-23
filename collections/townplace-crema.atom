@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://topshelfcabinetscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://topshelfcabinetscanada.ca/collections/townplace-crema.atom"/>
+  <title>Top Shelf Cabinets Canada</title>
+  <updated>2018-12-03T12:00:52-04:00</updated>
+  <author>
+    <name>Top Shelf Cabinets Canada</name>
+  </author>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+    <published>2018-12-03T12:00:52-04:00</published>
+    <updated>2018-12-03T12:00:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcbrgc12"/>
+    <title>12&quot;Deep Wall Bridge Cabinet</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BS12_x21_HBridgeC_0bc8fcdc-9262-413a-ae91-9a63bba66195.jpg?v=1584666914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            302.99 - 538.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcbrgc12">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12"Deep Wall Bridge Cabinet with 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>30&quot;Wx12&quot;Dx12&quot;H</title>
+      <s:price currency="CAD">302.99</s:price>
+      <s:sku>TC-W3012</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>33&quot;Wx12&quot;Dx12&quot;H</title>
+      <s:price currency="CAD">326.99</s:price>
+      <s:sku>TPC-W3312</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>36&quot;Wx12&quot;Dx12&quot;H</title>
+      <s:price currency="CAD">341.99</s:price>
+      <s:sku>TPC-W3612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>24&quot;Wx12&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">302.99</s:price>
+      <s:sku>TPC-W2415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>30&quot;Wx12&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">341.99</s:price>
+      <s:sku>TPC-W3015</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>33&quot;Wx12&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">368.99</s:price>
+      <s:sku>TPC-W3315</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>36&quot;Wx12&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">373.99</s:price>
+      <s:sku>TPC-W3615</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>24&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">321.99</s:price>
+      <s:sku>TPC-W2418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">373.99</s:price>
+      <s:sku>TPC-W3018</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>33&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">397.99</s:price>
+      <s:sku>TPC-W3318</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>36&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">428.99</s:price>
+      <s:sku>TPC-W3618</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>24&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">414.99</s:price>
+      <s:sku>TPC-W2424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>30&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">470.99</s:price>
+      <s:sku>TPC-W3024</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>33&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">501.99</s:price>
+      <s:sku>TPC-W3324</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/1618386780221</id>
+      <title>36&quot;Wx12&quot;Dx24&quot;H</title>
+      <s:price currency="CAD">538.99</s:price>
+      <s:sku>TPC-W3624</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/730573406269</id>
+    <published>2018-05-09T10:05:06-03:00</published>
+    <updated>2018-05-09T10:05:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcfbkp"/>
+    <title>Finished Back Panel</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/48-36_aadb8748-8a75-4dd6-922c-8d4f0fbc1c8b.png?v=1584666639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            212.99 - 375.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcfbkp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finished Back Panel Panelling</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573406269</id>
+      <title>1/4&quot;Dx48&quot;Wx36&quot;L</title>
+      <s:price currency="CAD">212.99</s:price>
+      <s:sku>TPC-F483614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573406269</id>
+      <title>1/4&quot;Dx36&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">354.99</s:price>
+      <s:sku>TPC-F963614(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/730573406269</id>
+      <title>1/4&quot;Dx48&quot;Wx96&quot;L</title>
+      <s:price currency="CAD">375.99</s:price>
+      <s:sku>TPC-F964814(1)</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/459581620262</id>
+    <published>2018-01-06T11:59:58-04:00</published>
+    <updated>2018-01-06T11:59:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcspldr1"/>
+    <title>Signature Coffee Sample Door</title>
+    <s:type>Signature Coffee Sample Door</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/2024248_orig.jpg?v=1584665672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee Sample Door<br>
+        <strong>Price: </strong>
+            96.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE Shipping on All Sample Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/459581620262</id>
+      <title>11&quot;Wx3/4&quot;Dx15&quot;H</title>
+      <s:price currency="CAD">96.99</s:price>
+      <s:sku>TPC-SD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483458382</id>
+    <published>2017-11-26T20:57:21-04:00</published>
+    <updated>2017-11-26T20:57:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcvbl"/>
+    <title>Vanity</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_012dc5cc-c802-4144-8f83-15b7ce0625c5.jpg?v=1584664290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            1022.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Left and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458382</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1022.99</s:price>
+      <s:sku>TPC-VS3021DL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483451726</id>
+    <published>2017-11-26T20:53:39-04:00</published>
+    <updated>2017-11-26T20:53:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpc42w2d"/>
+    <title>42&quot; Wall Cabinet 2 Doors</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/US42Wall2D_dd92aded-0e1c-4254-a01a-dfd4b5934e4d.jpg?v=1584664217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            619.99 - 899.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpc42w2d">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>42" Wall Cabinet 2 Doors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483451726</id>
+      <title>24&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">619.99</s:price>
+      <s:sku>TPC-W2442</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483451726</id>
+      <title>27&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">720.99</s:price>
+      <s:sku>TPC-W2742</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483451726</id>
+      <title>30&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">801.99</s:price>
+      <s:sku>TPC-W3042</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483451726</id>
+      <title>33&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">845.99</s:price>
+      <s:sku>TPC-W3342</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483451726</id>
+      <title>36&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku>TPC-W3642</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483457614</id>
+    <published>2017-10-24T00:17:09-03:00</published>
+    <updated>2017-10-24T00:17:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcaplq"/>
+    <title>Wood Applique</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMWoodAppliqueDOA_9556e50e-68fb-4b89-b5fe-fd897ff22fee.jpg?v=1584664283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            462.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wood Applique</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483457614</id>
+      <title>10&quot; approx</title>
+      <s:price currency="CAD">462.99</s:price>
+      <s:sku>TPC-DOA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483457166</id>
+    <published>2017-10-24T00:16:49-03:00</published>
+    <updated>2017-10-24T00:16:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcwff"/>
+    <title>Wall Fluted Base Filler with Square</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillerFluted.jpg?v=1584664274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            79.99 - 110.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcwff">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Fluted Base Filler with Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483457166</id>
+      <title>3&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>TPC-A30WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483457166</id>
+      <title>3&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku>TPC-A36WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483457166</id>
+      <title>3&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">110.99</s:price>
+      <s:sku>TPC-A42WFFL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483454798</id>
+    <published>2017-10-24T00:16:49-03:00</published>
+    <updated>2017-10-24T00:16:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcwmrwc"/>
+    <title>Wall Microwave Oven Cabinet</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/MRW_2bcb242e-c155-4f3a-b3aa-1b53039e4317.png?v=1584664249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            370.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Microwave Oven Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pantry &amp; Oven Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483454798</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">370.99</s:price>
+      <s:sku>TPC-MWO3018PM-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483454734</id>
+    <published>2017-10-24T00:16:48-03:00</published>
+    <updated>2017-10-24T00:16:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcwnrk"/>
+    <title>Wine Rack</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSWineRack_78bb909b-fa49-43c8-a5da-643fff6fc688.jpg?v=1584664248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            440.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine Rack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483454734</id>
+      <title>30&quot;Wx12&quot;Dx18&quot;H</title>
+      <s:price currency="CAD">440.99</s:price>
+      <s:sku>TPC-W3018WR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+    <published>2017-10-24T00:16:26-03:00</published>
+    <updated>2017-10-24T00:16:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcwfl"/>
+    <title>Wall Filler</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFillersWallandTall_e9b9b3b2-0f50-401d-8aeb-0c0be87cabfb.jpg?v=1584664271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            50.99 - 322.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcwfl">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Filler</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+      <title>3&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">50.99</s:price>
+      <s:sku>TPC-WF330</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+      <title>3&quot;Wx36&quot;H</title>
+      <s:price currency="CAD">61.99</s:price>
+      <s:sku>TPC-WF336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+      <title>3&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">76.99</s:price>
+      <s:sku>TPC-WF342</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+      <title>3&quot;Wx84&quot;H</title>
+      <s:price currency="CAD">144.99</s:price>
+      <s:sku>TPC-WF384</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+      <title>3&quot;Wx96&quot;H</title>
+      <s:price currency="CAD">167.99</s:price>
+      <s:sku>TPC-WF396</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+      <title>6&quot;Wx30&quot;H</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku>TPC-WF630</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+      <title>6&quot;Wx42&quot;H</title>
+      <s:price currency="CAD">148.99</s:price>
+      <s:sku>TPC-WF642</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456782</id>
+      <title>6&quot;Wx96&quot;H</title>
+      <s:price currency="CAD">322.99</s:price>
+      <s:sku>TPC-WF696</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483452302</id>
+    <published>2017-10-24T00:16:26-03:00</published>
+    <updated>2017-10-24T00:16:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcdwc"/>
+    <title>Wall Diagonal Corner Cabinet</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USDiaCornerWall_4329b5b7-788a-40ae-9ce1-8c9acc00fe63.jpg?v=1584664222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            706.99 - 1605.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcdwc">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Diagonal Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483452302</id>
+      <title>24&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">706.99</s:price>
+      <s:sku>TPC-WDC2430</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483452302</id>
+      <title>24&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">887.99</s:price>
+      <s:sku>TPC-WDC2436</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483452302</id>
+      <title>27&quot;Wx15&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">1340.99</s:price>
+      <s:sku>TPC-WDC273615</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483452302</id>
+      <title>24&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">940.99</s:price>
+      <s:sku>TPC-WDC2442</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483452302</id>
+      <title>27&quot;Wx15&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">1605.99</s:price>
+      <s:sku>TPC-WDC275215</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483451854</id>
+    <published>2017-10-24T00:16:25-03:00</published>
+    <updated>2017-10-24T00:16:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcsqbc"/>
+    <title>Wall Corner Cabinet</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Square_e461e2d5-9e93-4cca-93e2-efec0ec23139.png?v=1584664218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            1085.99 - 1565.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcsqbc">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483451854</id>
+      <title>24&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">1085.99</s:price>
+      <s:sku>TPC-SQC2430</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483451854</id>
+      <title>24&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">1304.99</s:price>
+      <s:sku>TPC-SQC2436</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483451854</id>
+      <title>24&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">1565.99</s:price>
+      <s:sku>TPC-SQC2442</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483458702</id>
+    <published>2017-10-24T00:16:06-03:00</published>
+    <updated>2017-10-24T00:16:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcvsbnd"/>
+    <title>Vanity Sink Base Cabinet</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D1D_9e5ca639-3c38-4594-8948-b02a30e950a8.jpg?v=1584664295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            571.99 - 870.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcvsbnd">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Sink Base Cabinet with 1 door and no drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458702</id>
+      <title>24&quot;Wx21&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">571.99</s:price>
+      <s:sku>TPC-S2421B30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458702</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">720.99</s:price>
+      <s:sku>TPC-S3021B34</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458702</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">870.99</s:price>
+      <s:sku>TPC-S3621B34</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483452366</id>
+    <published>2017-10-24T00:16:06-03:00</published>
+    <updated>2017-10-24T00:16:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcblwcc"/>
+    <title>Wall Blind Corner Cabinet</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Blind_Wall_795723d6-3424-4d0d-b55b-f3593fb0dd4f.png?v=1584664223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            721.99 - 1097.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcblwcc">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wall Blind Corner Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Cabinets</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483452366</id>
+      <title>30/33&quot;Wx12&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">721.99</s:price>
+      <s:sku>TPC-BLCC30</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483452366</id>
+      <title>30/33&quot;Wx12&quot;Dx36&quot;H</title>
+      <s:price currency="CAD">952.99</s:price>
+      <s:sku>TPC-BLCC36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483452366</id>
+      <title>30/33&quot;Wx12&quot;Dx42&quot;H</title>
+      <s:price currency="CAD">1097.99</s:price>
+      <s:sku>TPC-BLCC42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483458446</id>
+    <published>2017-10-24T00:15:43-03:00</published>
+    <updated>2017-10-24T00:15:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcvbr"/>
+    <title>Vanity</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_67f96298-3b8b-4f3d-b6df-d0a55776141e.jpg?v=1584664291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            1022.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Right  and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458446</id>
+      <title>30&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1022.99</s:price>
+      <s:sku>TPC-VS3021DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483458894</id>
+    <published>2017-10-24T00:15:31-03:00</published>
+    <updated>2017-10-24T00:15:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcv3db"/>
+    <title>Vanity</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/USVanityDrawerBase_6f83232d-3cdb-497d-b115-b2968c5ca425.jpg?v=1584664297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            1089.99 - 1136.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcv3db">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity 3 drawer base cabinter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458894</id>
+      <title>12&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1089.99</s:price>
+      <s:sku>TPC-SVB122134</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458894</id>
+      <title>15&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1136.99</s:price>
+      <s:sku>TPC-SVB152134</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483458638</id>
+    <published>2017-10-24T00:15:31-03:00</published>
+    <updated>2017-10-24T00:15:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcvdbbr"/>
+    <title>Vanity</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_3eeab342-e2ce-4b07-80c0-5d5bb347ca1e.jpg?v=1584664294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            1175.99 - 1600.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcvdbbr">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Right  and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458638</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1175.99</s:price>
+      <s:sku>TPC-VS3621DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458638</id>
+      <title>48&quot;Wx21&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">1600.99</s:price>
+      <s:sku>TPC-VS482DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483458510</id>
+    <published>2017-10-24T00:15:11-03:00</published>
+    <updated>2017-10-24T00:15:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcvdsbl"/>
+    <title>Vanity</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FVRMVanity1D2DraweronSide_94423b7a-e2e5-4005-abeb-54b5f909ed95.jpg?v=1584664293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            1175.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanity Base Cabinet with 1 door Left and 3 drawers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanities</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458510</id>
+      <title>36&quot;Wx21&quot;Dx34.5&quot;H</title>
+      <s:price currency="CAD">1175.99</s:price>
+      <s:sku>TPC-VS3621DL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483458190</id>
+    <published>2017-10-24T00:15:11-03:00</published>
+    <updated>2017-10-24T00:15:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpctrs1b"/>
+    <title>Trash can Drawer</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSTrashCanDrawer_f48b7917-1ddd-48d5-853b-07c94b479bd5.jpg?v=1584664288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            751.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trash can drawer - 2 Bins</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458190</id>
+      <title>21&quot;Wx24&quot;Dx17 1/4&quot;H</title>
+      <s:price currency="CAD">751.99</s:price>
+      <s:sku>TPC-TCR21-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483456206</id>
+    <published>2017-10-24T00:14:57-03:00</published>
+    <updated>2017-10-24T00:14:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpctk"/>
+    <title>Toe Kick</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSMouldingToeKick_70011aaf-3451-4e9a-aeac-d166c082f373.jpg?v=1584664262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            108.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toe Kick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483456206</id>
+      <title>4.5&quot;Hx1/4&quot;Dx96&quot;L</title>
+      <s:price currency="CAD">108.99</s:price>
+      <s:sku>TPC-TK8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483453646</id>
+    <published>2017-10-24T00:14:57-03:00</published>
+    <updated>2017-10-24T00:14:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcwbspcb"/>
+    <title>Spice Pullout Cabinet</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSSpicePullOutBase9.jpg?v=1584664235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            1091.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pullout cabinet Includes both cabinet and spice rack insert</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483453646</id>
+      <title>9&quot;W</title>
+      <s:price currency="CAD">1091.99</s:price>
+      <s:sku>TPC-BFP09</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483458254</id>
+    <published>2017-10-24T00:14:19-03:00</published>
+    <updated>2017-10-24T00:14:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcrod"/>
+    <title>Roll Out Drawer</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Pull_Out_tray_45b6428b-636d-4a9c-bc9a-5e81d7633711.jpg?v=1584664289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            195.99 - 415.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcrod">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roll out for use with same size Base Cabinet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458254</id>
+      <title>15&quot;W</title>
+      <s:price currency="CAD">195.99</s:price>
+      <s:sku>TPC-15RT-DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458254</id>
+      <title>18&quot;W</title>
+      <s:price currency="CAD">220.99</s:price>
+      <s:sku>TPC-18RT-Dr</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458254</id>
+      <title>24&quot;W</title>
+      <s:price currency="CAD">242.99</s:price>
+      <s:sku>TPC-24RT-DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458254</id>
+      <title>27&quot;W</title>
+      <s:price currency="CAD">265.99</s:price>
+      <s:sku>TPC-27RT-DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458254</id>
+      <title>30&quot;W</title>
+      <s:price currency="CAD">287.99</s:price>
+      <s:sku>TPC-30RT-DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458254</id>
+      <title>33&quot;W</title>
+      <s:price currency="CAD">351.99</s:price>
+      <s:sku>TPC-335RT-DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483458254</id>
+      <title>36&quot;W</title>
+      <s:price currency="CAD">415.99</s:price>
+      <s:sku>TPC-38RT-DR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483455822</id>
+    <published>2017-10-24T00:14:19-03:00</published>
+    <updated>2017-10-24T00:14:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpctpcbm"/>
+    <title>Scribe Molding</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/Scribe_8a72ec1b-343a-4572-9d5c-6ccdbc42146b.png?v=1584664259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scribre Molding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483455822</id>
+      <title>96&quot;L</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>TPC-SCI1-3SM</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483455566</id>
+    <published>2017-10-24T00:14:19-03:00</published>
+    <updated>2017-10-24T00:14:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcrfgp"/>
+    <title>Refrigerator End panel</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/BSFridgeEndPanel_7210c76d-1d47-47f7-9c14-a1441b9b8e53.jpg?v=1584664256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            462.99 - 876.99
+            <a href="https://topshelfcabinetscanada.ca/products/tpcrfgp">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Refrigerator End panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Panels Moldings &amp; Fillers</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483455566</id>
+      <title>3/4W&quot;x24Dx84&quot;H</title>
+      <s:price currency="CAD">462.99</s:price>
+      <s:sku>TPC-REP2484-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483455566</id>
+      <title>3/4W&quot;x24x96&quot;H</title>
+      <s:price currency="CAD">537.99</s:price>
+      <s:sku>TPC-REP2496-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483455566</id>
+      <title>3&quot;W&quot;x24x84&quot;H</title>
+      <s:price currency="CAD">540.99</s:price>
+      <s:sku>TPC-REP2484(3)-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483455566</id>
+      <title>3&quot;W&quot;x24x96&quot;H</title>
+      <s:price currency="CAD">645.99</s:price>
+      <s:sku>TPC-REP2496(3)-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483455566</id>
+      <title>3&quot;W&quot;x30x96&quot;H</title>
+      <s:price currency="CAD">876.99</s:price>
+      <s:sku>TPC-REP3096(3)-3/4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://topshelfcabinetscanada.ca/products/11483454478</id>
+    <published>2017-10-24T00:13:58-03:00</published>
+    <updated>2017-10-24T00:13:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://topshelfcabinetscanada.ca/products/tpcawh36"/>
+    <title>Range Hood</title>
+    <s:type>Signature Coffee</s:type>
+    <s:vendor>Forevermark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1120/4154/products/FMHoodAWH36_1e70b19b-e147-4b4c-93f3-fb53f4d6d847.jpg?v=1584664246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Forevermark<br>
+        <strong>Type: </strong>Signature Coffee<br>
+        <strong>Price: </strong>
+            1175.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Range Hood</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cabinets &amp; Extras</s:tag>
+    <s:variant>
+      <id>https://topshelfcabinetscanada.ca/products/11483454478</id>
+      <title>36&quot;Wx18&quot;Dx30&quot;H</title>
+      <s:price currency="CAD">1175.99</s:price>
+      <s:sku>TPC-AWH36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
